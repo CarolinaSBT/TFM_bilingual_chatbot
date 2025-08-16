@@ -1,0 +1,2310 @@
+﻿intent;text;lang
+animal_funfact;Dime un dato curioso sobre los gatos.;es
+animal_funfact;Sorpréndeme con un hecho sobre los pingüinos.;es
+animal_funfact;¿Sabes algo interesante de los osos?;es
+animal_funfact;Cuéntame un dato divertido de un animal.;es
+animal_funfact;¿Algún dato curioso sobre el animal que elijas?;es
+animal_funfact;dime dato curioso de gatos;es
+animal_funfact;sorprndeme con un echo d pinginos;es
+animal_funfact;sabes algo interezante de osos;es
+animal_funfact;kuentame un dato dibertido animal;es
+animal_funfact;algun dato curioso d un animal ke elijas;es
+animal_funfact;Cuéntame algo curioso de un perro.;es
+animal_funfact;Dime una curiosidad de los gatos.;es
+animal_funfact;¿Sabías algo interesante de los búhos?;es
+animal_funfact;Un dato loco de un animal cualquiera.;es
+animal_funfact;Sorpréndeme con un hecho de los osos hormigueros.;es
+animal_funfact;¿Alguna curiosidad sobre los monos?;es
+animal_funfact;Dame un dato sobre los caballos.;es
+animal_funfact;Cuéntame algo que no sepa de los elefantes.;es
+animal_funfact;¿Tienes un hecho interesante de delfines?;es
+animal_funfact;Un dato sobre los tigres.;es
+animal_funfact;Dime algo cool de los perezosos.;es
+animal_funfact;¿Una curiosidad de las jirafas?;es
+animal_funfact;Dame un hecho divertido sobre los pandas.;es
+animal_funfact;Algo sorprendente de las serpientes.;es
+animal_funfact;¿Qué dato tienes sobre los camaleones?;es
+animal_funfact;Cuéntame una anécdota animal.;es
+animal_funfact;Un dato random de animales.;es
+animal_funfact;¿Hay un hecho increíble sobre los leones?;es
+animal_funfact;Información curiosa de los lobos.;es
+animal_funfact;Dime un secreto de un animal.;es
+animal_funfact;Cuéntame una curiosidad de un perro de aquí.;es
+animal_funfact;Dime algo interesante de los gatos.;es
+animal_funfact;¿Sabías algún dato flipante de los búhos?;es
+animal_funfact;Un dato curioso de un animal español.;es
+animal_funfact;Sorpréndeme con un hecho de los osos pardos.;es
+animal_funfact;¿Alguna curiosidad sobre los linces?;es
+animal_funfact;Dame un dato sobre los caballos andaluces.;es
+animal_funfact;Cuéntame algo que no sepa de los toros.;es
+animal_funfact;¿Tienes un hecho interesante de delfines?;es
+animal_funfact;Un dato sobre los lobos ibéricos.;es
+animal_funfact;Dime algo chulo de las águilas.;es
+animal_funfact;¿Una curiosidad de las jirafas?;es
+animal_funfact;Dame un hecho divertido sobre los zorros.;es
+animal_funfact;Algo sorprendente de los jabalíes.;es
+animal_funfact;¿Qué dato tienes sobre las cabras montesas?;es
+animal_funfact;Cuéntame una anécdota de un animal de granja.;es
+animal_funfact;Un dato random de insectos.;es
+animal_funfact;¿Hay un hecho increíble sobre los vencejos?;es
+animal_funfact;Información curiosa de los erizos.;es
+animal_funfact;Dime un secreto de un animal marino.;es
+bye;¡Adiós!;es
+bye;¡Hasta luego!;es
+bye;Chau.;es
+bye;Nos vemos.;es
+bye;Que tengas un buen día.;es
+bye;¡Cuídate!;es
+bye;Gracias, adiós.;es
+bye;Me tengo que ir.;es
+bye;Ha sido un gusto, hasta pronto.;es
+bye;Me despido.;es
+bye;adios;es
+bye;nos vemos;es
+bye;chau;es
+bye;asta luego;es
+bye;q te valla bien;es
+bye;kuidate;es
+bye;gracias adios;es
+bye;me voi ya;es
+bye;fue un gusto adios;es
+bye;ya me despido;es
+bye;¡Chau! Nos vemos.;es
+bye;¡Adiós! Que le vaya bien.;es
+bye;¡Hasta luego! Cuídese.;es
+bye;¡Nos vemos!;es
+bye;Que tenga un buen día.;es
+bye;Ahí nos vemos.;es
+bye;Chao.;es
+bye;Que le vaya bonito.;es
+bye;Gracias, me despido.;es
+bye;Fue un gusto, chao.;es
+bye;Adios!;es
+bye;Nos vemoss!;es
+bye;Chauu.;es
+bye;Q t vaya bien.;es
+bye;Cuidate.;es
+bye;Ya me fui.;es
+bye;Grasias adios.;es
+bye;Fue un gusto asta luego.;es
+bye;M despido.;es
+bye;Fin del chat.;es
+bye;Ya me voy, grax.;es
+bye;Bye bye.;es
+bye;Cya.;es
+bye;Buen dia!;es
+bye;Adiocito.;es
+bye;Fin.;es
+bye;Hasta la proxima.;es
+bye;Ya no necesito nada, adios.;es
+bye;Desconectando.;es
+bye;Cerramos sesion.;es
+bye;¡Hasta otra!;es
+bye;¡Venga, adiós!;es
+bye;¡Chao, chao!;es
+bye;Nos vemos, máquina.;es
+bye;Que vaya bien.;es
+bye;¡Cuídate mucho!;es
+bye;Gracias y hasta pronto.;es
+bye;Me piro ya;es
+bye;Ha sido un placer, majo/maja.;es
+bye;Un saludo.;es
+bye;Adeu!;es
+bye;Agur!;es
+bye;Hasta luego Lucas!;es
+bye;Cierro.;es
+bye;Me desconecto.;es
+bye;Fin de la conversación.;es
+bye;Listo, adios.;es
+bye;Gracias por tó.;es
+bye;Ya está, hasta otra.;es
+bye;Q t vaya bieen.;es
+greetings;¡Hola! ??;es
+greetings;¿Qué tal?;es
+greetings;Buenos días.;es
+greetings;¡Hola, hola!;es
+greetings;¿Cómo andamos?;es
+greetings;¡Qué gusto saludarte!;es
+greetings;Un placer conversar contigo.;es
+greetings;¿Cómo te va?;es
+greetings;¡Buenas tardes!;es
+greetings;¿Hay alguien ahí?;es
+greetings;hola k tal;es
+greetings;buenos dias;es
+greetings;q onda;es
+greetings;holi como andas;es
+greetings;q milagro saludarte;es
+greetings;ola ai alguien;es
+greetings;saludos;es
+greetings;q se dice;es
+greetings;buenas tardes;es
+greetings;wenas;es
+greetings;¡Hola! ¿Qué tal?;es
+greetings;¡Qué onda! ¿Cómo andas?;es
+greetings;¡Buenos días! ¿Cómo le va?;es
+greetings;¡Qué hubo! ¿Todo bien?;es
+greetings;¡Buenas! ¿Cómo estamos?;es
+greetings;¡Pura vida! ¿Cómo le va?;es
+greetings;¡Quiubo! ¿Qué cuentas?;es
+greetings;¡Hola, hola! ¿Cómo va la cosa?;es
+greetings;¿Qué decís? ¿Todo piola?;es
+greetings;¡Wenas! ¿Cómo andás?;es
+greetings;Ola, k tal?;es
+greetings;Buenas tardes, como anda?;es
+greetings;Hola a todes!;es
+greetings;q mas?;es
+greetings;Como ta?;es
+greetings;Ay alguien por ahi?;es
+greetings;Holix!;es
+greetings;Wenas noches!;es
+greetings;q tal el dia?;es
+greetings;Hola, soy un cliente!;es
+greetings;Holix! Qué onda la vida?;es
+greetings;Wena cabros, cómo andan?;es
+greetings;Qué más, mijo?;es
+greetings;Pura buena vibra!;es
+greetings;Saludos desde acá.;es
+greetings;Bueenas noches! Como le va?;es
+greetings;Mi gente, ¿cómo 'stán?;es
+greetings;¡Che! ¿Todo tranca?;es
+greetings;Hola a la muchachada.;es
+greetings;Aquí andamos, ¿y tú?;es
+greetings;Buenos días, mi king/queen!;es
+greetings;¡Ay, qué chévere saludarte!;es
+greetings;Me alegra verte por aquí.;es
+greetings;¿Cómo le ha ido el día?;es
+greetings;Hola, soy fulanito.;es
+greetings;Un gusto conversar.;es
+greetings;Hola ¿cómo estamos por acá?;es
+greetings;Qué milagro!;es
+greetings;Buenas y santas.;es
+greetings;¡Qué bien verte por aquí!;es
+greetings;¡Hola! ¿Qué tal te va?;es
+greetings;¡Buenas! ¿Cómo andamos?;es
+greetings;¡Qué pasa!;es
+greetings;¡Hombre! ¿Qué hay?;es
+greetings;¡Alo!;es
+greetings;¿Cómo estás, majo? ;es
+greetings;¡Epa! ¿Qué tal?;es
+greetings;¡Muy buenas!;es
+greetings;¿Qué se cuenta?;es
+greetings;¡Diga!;es
+greetings;Hola, tron.;es
+greetings;Venga, ¿qué tal?;es
+greetings;Buenas tardes, crack.;es
+greetings;Cómo andas hoy?;es
+greetings;Ay alguien?;es
+greetings;Hola a todos!;es
+greetings;K tl?;es
+greetings;Oli!;es
+greetings;Wenasss.;es
+greetings;Q pasa x aki?;es
+human_help;Necesito hablar con un representante.;es
+human_help;¿Me puedes pasar con un agente, por favor?;es
+human_help;Esto es urgente, necesito ayuda humana.;es
+human_help;Por favor, conéctame con alguien de soporte.;es
+human_help;¿Hay alguna manera de hablar con una persona real?;es
+human_help;No me estás entendiendo, necesito hablar con un humano.;es
+human_help;Quiero presentar una queja formal, necesito a un supervisor.;es
+human_help;Esto es un fraude, voy a reportarlos.;es
+human_help;Estoy muy molesto, quiero hablar con alguien ahora.;es
+human_help;¿Puede poner a alguien a cargo en la línea?;es
+human_help;Necesito una solución, pasame con alguien.;es
+human_help;Mi problema es complicado, el bot no ayuda.;es
+human_help;Me siento estafado, exijo hablar con un superior.;es
+human_help;¿Hay algún número de teléfono para hablar con ustedes?;es
+human_help;Quiero escalar mi caso, póngame con un humano.;es
+human_help;Estoy experimentando un problema muy sensible.;es
+human_help;No puedo resolver esto con un robot.;es
+human_help;Es un asunto personal, necesito privacidad.;es
+human_help;Mi situación es única y requiere atención humana.;es
+human_help;Creo que hay un error grave, hablemos.;es
+human_help;Estoy cansado de repetir lo mismo, póngame con alguien.;es
+human_help;No encuentro la información, ¿puede un humano ayudarme?;es
+human_help;Necesito asistencia personalizada.;es
+human_help;Esto es inaceptable, quiero hablar con alguien de inmediato.;es
+human_help;Los voy a demandar si no me atienden.;es
+human_help;kiero ablar con un rrepresentante;es
+human_help;m pasas con un ajente xfa;es
+human_help;urgente necesito ayuda umanna;es
+human_help;conectame con alguien d soporte;es
+human_help;ay forma d ablar con persona real;es
+human_help;no m entiendes ablar con umanno;es
+human_help;kiero aser una keja nesesito supervisor;es
+human_help;esto es un ffraude los boy a reportar;es
+human_help;estoy mui enojado kiero ablar con algien aora;es
+human_help;ponme con un cargo en la linea;es
+human_help;nesesito solucion pasam con algien;es
+human_help;mi problema es complikado el bot no aiuda;es
+human_help;m siento estafado exijo ablar con superior;es
+human_help;ai algun numero pa ablar con udes;es
+human_help;kiero eskalar mi caso ponm con un humano;es
+human_help;estoy pasando x un problema mui sensible;es
+human_help;no puedo resover esto con robot;es
+human_help;asunto personal nesesito privacidad;es
+human_help;mi situacion es unica y nesesita atencion humana;es
+human_help;creo ay un herror grabe ablamo;es
+human_help;estoy kansado d rrepetir ponme con algien;es
+human_help;no encuentro la info puede un humano ayudarme;es
+human_help;nesesito asistenia personalizada;es
+human_help;esto es inaceptable kiero ablar con algien d inmediato;es
+human_help;los boy a demandar si no m atienden;es
+human_help;Necesito hablar con un asesor.;es
+human_help;¿Me pasas con un ejecutivo, porfa?;es
+human_help;Esto es grave, quiero hablar con alguien ya.;es
+human_help;No me ayuda el robot, necesito una persona.;es
+human_help;¿Hay cómo hablar con gente de verdad?;es
+human_help;Ustedes son unos estafadores, quiero mi plata de vuelta.;es
+human_help;No entiendo, ¿me puedes poner con un operador?;es
+human_help;¿Me comunico con un humano, por favor?;es
+human_help;Mi pedido no llega, esto es una porquería, quiero hablar con alguien.;es
+human_help;Los voy a denunciar, esto es inaceptable.;es
+human_help;No me sirve tu respuesta, necesito ayuda de verdad.;es
+human_help;¿Con quién puedo hablar sobre un problema grave?;es
+human_help;Me siento engañado, exijo un supervisor.;es
+human_help;¿Tienes algún número para llamar a servicio al cliente?;es
+human_help;Quiero hablar con un encargado.;es
+human_help;Mi caso es especial, el bot no lo maneja.;es
+human_help;Esto es ridículo, quiero hablar con una persona ya.;es
+human_help;No sé qué hacer, necesito a alguien que sepa.;es
+human_help;¿Puedes pasarme con atención al cliente?;es
+human_help;Estoy harto, quiero hablar con un humano de una vez.;es
+human_help;Necesito hablar con un operador, por favor.;es
+human_help;¿Me puedes pasar con un comercial?;es
+human_help;Esto es un rollo, quiero hablar con una persona.;es
+human_help;Pásame con alguien que entienda de esto.;es
+human_help;No me aclaro, necesito un humano.;es
+human_help;Esto es una chapuza, quiero mi dinero.;es
+human_help;Estoy cabreado, ponme con un superior.;es
+human_help;¿Hay alguien ahí que no sea un robot?;es
+human_help;No me líes, por favor, que me atienda alguien.;es
+human_help;Me siento estafado, esto es un cachondeo.;es
+human_help;Necesito una solución ya, que me llamen.;es
+human_help;Este bot no me ayuda para nada.;es
+human_help;Es un tema muy delicado, no es para el chat.;es
+human_help;Quiero poner una reclamación.;es
+human_help;No me entiendo con la máquina.;es
+human_help;Necesito ayuda personalizada, esto es serio.;es
+human_help;Vaya tela, quiero hablar con alguien.;es
+human_help;Mi problema es un pifostio, no lo arregla el chat.;es
+human_help;Me estoy hartando, ¿hay alguien?;es
+human_help;Que me llame un responsable.;es
+other;Cuéntame un chiste.;es
+other;¿Cómo estás?;es
+other;No entiendo lo que dices.;es
+other;Eres muy útil.;es
+other;¿Qué día es hoy?;es
+other;kuentame un chiste;es
+other;como estas tu;es
+other;no entiendo;es
+other;eres mui util;es
+other;q dia es oi;es
+greetings;K onda?;es
+other;Toy bien y tu?;es
+other;No c.;es
+other;Eres chido.;es
+other;¿Q día es hoy?;es
+other;Puedes hacer otra cosa?;es
+other;No entendi nadita.;es
+other;Eso es todo?;es
+other;Jaja, buena.;es
+other;Dame un dato aleatorio.;es
+other;Me aburro.;es
+other;Háblame de algo.;es
+other;Eres un bot?;es
+other;Cómo funcionas?;es
+other;Puedes ayudarme en algo mas?;es
+other;No se q preguntar.;es
+animal_funfact;Cuentame algo gracioso.;es
+other;Que hora es?;es
+other;Estoy probando.;es
+other;Gracias por el chat.;es
+other;¡Anda! ¿Qué me cuentas?;es
+other;Estoy bien, ¿y tú, máquina?;es
+other;Ni idea.;es
+other;Eres la caña.;es
+other;¿Qué día es hoy, chaval?;es
+other;No me seas así.;es
+other;No te entiendo ni papa.;es
+other;¿Ya está?;es
+other;Jajaja, ¡qué bueno!;es
+other;Dime algo al azar.;es
+other;Me aburro un montón.;es
+animal_funfact;Háblame de algo que mole.;es
+other;¿Eres un robot?;es
+other;¿Cómo funcionas, colega?;es
+other;¿Algo más en lo que puedas ayudarme?;es
+other;No sé qué preguntar, la verdad.;es
+other;Cuéntame un cotilleo.;es
+other;¿Qué hora es, por cierto?;es
+other;Estoy haciendo pruebas.;es
+other;Gracias por la charla.;es
+question_delivery;¿Hacen envíos a México?;es
+question_delivery;¿Cuánto tarda el envío a Madrid?;es
+question_delivery;¿Cuál es el costo de envío a Argentina?;es
+question_delivery;¿Cómo puedo rastrear mi pedido?;es
+question_delivery;Mi pedido no ha llegado, ¿qué hago?;es
+question_delivery;¿Es posible un envío exprés?;es
+question_delivery;¿Se hacen entregas en días festivos?;es
+question_delivery;¿Qué paquetería usan para los envíos internacionales?;es
+question_delivery;¿Por qué mi envío está demorado?;es
+question_delivery;¿Hay algún costo adicional por aduanas?;es
+question_delivery;envian a mexio;es
+question_delivery;kuanto tarda a madrid;es
+question_delivery;presio de envio a arjentiina;es
+question_delivery;como rrastreo mi pedido;es
+question_delivery;mi pedido no llega q ago;es
+question_delivery;enbio expres posible;es
+question_delivery;entregan dias festivos;es
+question_delivery;q paqueteria usan internacional;es
+question_delivery;x q mi embio esta demorado;es
+question_delivery;ai costo adiccional aduana;es
+question_delivery;¿Hacen envíos para Colombia?;es
+question_delivery;¿Cuánto demora el envío a Chile?;es
+question_delivery;¿Cuál es el costo de envío a Perú?;es
+question_delivery;¿Cómo puedo rastrear mi envío?;es
+question_delivery;Mi pedido no ha llegado, ¿qué onda?;es
+question_delivery;¿Es posible un envío exprés a Argentina?;es
+question_delivery;¿Entregan en Bolivia los fines de semana?;es
+question_delivery;¿Qué paquetería usan para los envíos internacionales a Ecuador?;es
+question_delivery;¿Por qué mi remesa está demorada?;es
+question_delivery;¿Hay algún cargo extra por aduanas en Uruguay?;es
+question_delivery;¿Hacen envío a todo el país?;es
+question_delivery;¿Cuánto tarda en llegar a mi casa?;es
+question_delivery;¿Cuál es el precio de envío a mi localidad?;es
+question_delivery;¿Cómo hago para seguir mi pedido?;es
+question_delivery;Mi paquete no llega, ¿qué hago?;es
+question_delivery;¿Se puede hacer envío express?;es
+question_delivery;¿Entregan los sábados?;es
+question_delivery;¿Qué mensajería usan para entregas?;es
+question_delivery;¿Por qué mi paquete está demorado?;es
+question_delivery;¿Hay cargos de aduana?;es
+question_delivery;¿El envío es gratis?;es
+question_delivery;¿Cuándo despachan mi orden?;es
+question_delivery;¿Puedo pasar a retirar mi compra?;es
+question_delivery;¿Qué pasa si no estoy para recibir?;es
+question_delivery;¿El costo de envío varía por peso?;es
+question_delivery;¿Hacen entregas a las provincias?;es
+question_delivery;¿Se puede cambiar la dirección de envío?;es
+question_delivery;¿Mi pedido salió ya?;es
+question_delivery;¿A qué hora llegan los envíos?;es
+question_delivery;¿Necesito firmar para recibir?;es
+question_delivery;¿Hacen envíos a Canarias?;es
+question_delivery;¿Cuánto tarda el envío a un pueblo?;es
+question_delivery;¿Cuál es el precio de portes para Baleares?;es
+question_delivery;¿Cómo sigo mi pedido en Correos?;es
+question_delivery;Mi paquete no llega, ¿qué hago ahora?;es
+question_delivery;¿Hay envío urgente?;es
+question_delivery;¿Entregan en festivos?;es
+question_delivery;¿Qué mensajería usáis para los pedidos?;es
+question_delivery;¿Por qué mi envío va con retraso?;es
+question_delivery;¿Hay algún extra por aduanas en Ceuta?;es
+question_delivery;¿El envío es gratis a la Península?;es
+question_delivery;¿Cuánto tarda en llegar mi bulto?;es
+question_delivery;¿Qué pasa con mi envío?;es
+question_delivery;¿El envío a domicilio tiene coste?;es
+question_delivery;¿Puedo recoger en tienda?;es
+question_delivery;¿Hay coste por contra reembolso?;es
+question_delivery;¿Cuándo me llega el paquete?;es
+question_delivery;¿Qué transportista usáis?;es
+question_delivery;¿Se puede cambiar el punto de recogida?;es
+question_delivery;Mi pedido no aparece en el localizador.;es
+question_item;¿De qué material es la camiseta del tigre?;es
+question_item;¿Tienen la camiseta del búho en talla M?;es
+question_item;¿Esta camiseta de león es de algodón orgánico?;es
+question_item;¿La camiseta de perro tiene otros colores?;es
+question_item;¿Hay existencias de la camiseta de gato negro?;es
+question_item;Muéstrame la camiseta de la jirafa.;es
+question_item;¿La camiseta del lobo es unisex?;es
+question_item;¿Cuáles son las medidas de la camiseta de panda?;es
+question_item;¿La camiseta de koala encoge al lavarla?;es
+question_item;¿Podrías darme más detalles sobre la camiseta de la ballena?;es
+question_item;de q material es la camiseta de tigre;es
+question_item;tienen la d buho talla m;es
+question_item;la de leon es d algodon organico;es
+question_item;la camiseta del perro tiene otros colores;es
+question_item;ay la de gato negro;es
+question_item;muestrame la del ajirafa;es
+question_item;la de lobo es unisex;es
+question_item;medidas de la d panda;es
+question_item;la de coala encoje;es
+question_item;info camiseta ballena;es
+question_item;¿De qué tela es la remera del carpincho?;es
+question_item;¿Tienes la playera del ajolote en talla chica?;es
+question_item;¿Esta franela de lagarto es de algodón orgánico?;es
+question_item;¿La polera del pájaro zapato tiene otros colores?;es
+question_item;¿Hay stock de la camiseta del capybara?;es
+question_item;Muéstrame la camiseta de la garza picozapato.;es
+question_item;¿La playera del lobo es unisex?;es
+question_item;¿Qué medidas tiene la remera del panda?;es
+question_item;¿La polera de koala se encoge al lavar?;es
+question_item;¿Podrías darme más info de la franela de la ballena?;es
+question_item;¿Hay camisetas de camaleones?;es
+question_item;Quiero ver la remera de la tortuga.;es
+question_item;¿Esta playera de sapo tiene mi talla?;es
+question_item;¿La franela del caimán está disponible?;es
+question_item;¿Me muestras la polera del guepardo?;es
+question_item;¿Tienen calcetines de animales?;es
+question_item;¿Cuánto cuestan las medias con diseño de pato?;es
+question_item;¿Qué tallas manejan para las camisetas?;es
+question_item;¿La chamarra de oso polar está disponible?;es
+question_item;¿Esta camisa de estampado animal es para hombre?;es
+question_item;¿Esta chomba de mono es d algodón?;es
+question_item;¿Tienen la camiseta del cocodrilo en talla G?;es
+question_item;¿La polera del halcón viene en otros colores?;es
+question_item;¿Es unisex la remera de la alpaca?;es
+question_item;Dame info de la playera del tucán.;es
+question_item;¿La franela del jaguar es de buena calidad?;es
+question_item;¿Esta camiseta de puma la tienen en xs?;es
+question_item;¿Qué medidas son para la polera del armadillo?;es
+question_item;¿La remera del delfín encoje?;es
+question_item;¿Hay más diseños de camisetas de animales?;es
+question_item;¿La playera del cóndor es original?;es
+question_item;¿Tienen medias con diseño de pingüino?;es
+question_item;¿Cuál es el material de la chamarra de oso?;es
+question_item;¿Esta camiseta de águila es para mujer?;es
+question_item;¿Hay disponibles poleras de perezosos?;es
+question_item;¿Me pasas las fotos de la remera de la cebra?;es
+question_item;¿La playera de la abeja está en promoción?;es
+question_item;¿Tienen franelas con dibujo de koalas?;es
+question_item;¿Las camisetas de loros son de manga larga?;es
+question_item;¿Cuánto sale la polera del guepardo?;es
+question_item;¿De qué es la camiseta del lince ibérico?;es
+question_item;¿La remera del oso pardo, la tienen en talla L?;es
+question_item;¿Esta elástica del águila es de algodón?;es
+question_item;¿La playera del lobo, tiene otros grabados?;es
+question_item;¿Hay stock de la camiseta del camaleón?;es
+question_item;Enséñame la camiseta del torito.;es
+question_item;¿La camiseta de buitre es de chico o chica?;es
+question_item;¿Qué medidas tiene la camiseta del lagarto?;es
+question_item;¿La camiseta de cabra montesa destiñe?;es
+question_item;¿Puedes darme más info de la camiseta del gallo?;es
+question_item;¿Las camisetas de oso tienen alguna variedad?;es
+question_item;¿Hay algún jersey de oveja?;es
+question_item;¿Esta prenda de jabalí es de temporada?;es
+question_item;¿Tenéis calcetines de flamencos?;es
+question_item;¿Me enseñas la chaqueta con diseño de águila?;es
+question_item;¿Cuánto cuesta la camiseta del perro?;es
+question_item;Camiseta de gato, ¿hay más colores?;es
+question_item;¿La camiseta del ciervo es de manga corta?;es
+question_item;¿Qué tallas tenéis para la camiseta del halcón?;es
+question_item;¿Está disponible la camiseta de águila imperial?;es
+question_offers;¿Tienen algún descuento ahora mismo?;es
+question_offers;¿Hay ofertas en camisetas de animales?;es
+question_offers;¿Tienen código de descuento para la primera compra?;es
+question_offers;¿Cuándo empiezan las rebajas?;es
+question_offers;¿Hay alguna promoción de envío gratis?;es
+question_offers;ay deskuentos ahorita;es
+question_offers;ofertas en camisetas de animales;es
+question_offers;tienen codigo d descuento primera compra;es
+question_offers;cuando empiesan las rebajas;es
+question_offers;ai promocion envio grartis;es
+question_offers;¿Tienen alguna promoción activa?;es
+question_offers;¿Hay rebajas en las camisetas?;es
+question_offers;¿Tienen cupones de descuento?;es
+question_offers;¿Cuándo son las liquidaciones?;es
+question_offers;¿Hay alguna oferta de 2x1?;es
+question_offers;¿Manejan descuentos por volumen?;es
+question_offers;¿Hay alguna promo por temporada?;es
+question_offers;¿Cuál es el descuento máximo?;es
+question_offers;¿Tienen algún código promocional?;es
+question_offers;¿Las ofertas son solo online?;es
+question_offers;¿Hay ofertas en las remeras?;es
+question_offers;¿Cuándo terminan las promociones?;es
+question_offers;¿Tienen descuento para clientes nuevos?;es
+question_offers;¿Hay combos de oferta?;es
+question_offers;¿Qué descuentos tienen para el Día del Animal?;es
+question_offers;¿Los descuentos aplican a todo?;es
+question_offers;¿Se pueden acumular ofertas?;es
+question_offers;¿Hay descuentos por pago en efectivo?;es
+question_offers;¿Tienen un programa de puntos?;es
+question_offers;¿Cuáles son las promos vigentes?;es
+question_offers;¿Tenéis alguna oferta ahora mismo?;es
+question_offers;¿Hay rebajas en las camisetas de animales?;es
+question_offers;¿Tenéis algún código de descuento para nuevos clientes?;es
+question_offers;¿Cuándo empiezan las rebajas de verano?;es
+question_offers;¿Hay alguna promo de envío gratis?;es
+question_offers;¿Tenéis descuentos para estudiantes?;es
+question_offers;¿Hay alguna oferta por la campaña de Navidad?;es
+question_offers;¿Cuál es el descuento máximo que tenéis?;es
+question_offers;¿Hay algún cupón que pueda usar?;es
+question_offers;¿Las ofertas son solo para la web?;es
+question_offers;¿Hay promociones en las camisetas del lince?;es
+question_offers;¿Hasta cuándo duran las ofertas?;es
+question_offers;¿Tenéis algún descuento por comprar varias camisetas?;es
+question_offers;¿Hay promos por el Black Friday?;es
+question_offers;¿Qué descuentos tenéis para clientes habituales?;es
+question_offers;¿Los descuentos se aplican automáticamente?;es
+question_offers;¿Se pueden usar varios descuentos a la vez?;es
+question_offers;¿Hay ofertas por ser familia numerosa?;es
+question_offers;¿Tenéis descuentos en la sección de novedades?;es
+question_offers;¿Cuáles son vuestras ofertas más destacadas?;es
+question_prices;¿Cuánto cuesta la camiseta del elefante?;es
+question_prices;¿Cuál es el precio de la camiseta de cebra?;es
+question_prices;¿Las camisetas tienen el mismo precio?;es
+question_prices;¿Hay algún precio especial por comprar varias?;es
+question_prices;¿El precio incluye el IVA?;es
+question_prices;cuanto cuesta la de elefante;es
+question_prices;precio d la de cebra;es
+question_prices;camisetas mismo precio;es
+question_prices;precio especial x varias;es
+question_prices;el precio inlcluye iva;es
+question_prices;¿Cuánto vale la remera del elefante?;es
+question_prices;¿Cuál es el costo de la playera de cebra?;es
+question_prices;¿Todas las camisetas tienen el mismo precio?;es
+question_prices;¿Hay algún descuento por comprar varias?;es
+question_prices;¿El precio ya tiene el IVA incluido?;es
+question_prices;¿Qué precio tiene la polera de la jirafa?;es
+question_prices;¿Hay ofertas en los precios?;es
+question_prices;¿Cuál es el precio final con envío?;es
+question_prices;¿Las medias cuánto salen?;es
+question_prices;¿Puedo pagar en cuotas?;es
+question_prices;¿Me dices el precio de la camiseta del lobo?;es
+question_prices;¿Las chamarra de animal, cuánto cuesta?;es
+question_prices;¿Este precio es el de ahora?;es
+question_prices;¿Hay un límite de compra para aplicar descuentos?;es
+question_prices;¿Son precios fijos?;es
+question_prices;¿Podría ver la lista de precios?;es
+question_prices;¿Hay alguna promo por el precio?;es
+question_prices;¿Tienen precios por mayor?;es
+question_prices;¿El precio incluye los impuestos?;es
+question_prices;¿Me puedes dar un presupuesto?;es
+question_prices;¿Cuánto vale la camiseta del lobo?;es
+question_prices;¿Cuál es el precio de la camiseta del toro?;es
+question_prices;¿Todas las camisetas tienen el mismo precio?;es
+question_prices;¿Hay algún precio especial si compro varias?;es
+question_prices;¿El precio incluye el IVA?;es
+question_prices;¿Qué vale la camiseta del oso?;es
+question_prices;¿Hay ofertas en los precios?;es
+question_prices;¿Cuál es el precio total con el envío?;es
+question_prices;¿Cuánto salen las medias?;es
+question_prices;¿Se puede pagar a plazos?;es
+question_prices;Dime el precio de la camiseta del lince.;es
+question_prices;La chaqueta de animal, ¿qué precio tiene?;es
+question_prices;¿Este precio es el definitivo?;es
+question_prices;¿Hay un mínimo de compra para descuentos?;es
+question_prices;¿Son precios cerrados?;es
+question_prices;¿Me puedes dar un listado de precios?;es
+question_prices;¿Hay alguna promoción en el precio?;es
+question_prices;¿Tenéis precios para tiendas?;es
+question_prices;¿El precio ya tiene los impuestos?;es
+question_prices;¿Puedes darme un presupuesto de varias camisetas?;es
+question_store;¿Cuáles son sus horarios de atención?;es
+question_store;¿Dónde están ubicados?;es
+question_store;¿Cuál es su política de devoluciones?;es
+question_store;¿Aceptan pagos con tarjeta de crédito?;es
+question_store;¿Tienen una tienda física?;es
+question_store;¿Cómo puedo contactar con atención al cliente?;es
+question_store;¿Es esta tienda legítima?;es
+question_store;¿Cuánto tiempo llevan operando?;es
+question_store;¿Dónde puedo encontrar su política de privacidad?;es
+question_store;¿Ofrecen tarjetas de regalo?;es
+question_store;sus horarios d atencion;es
+question_store;donde estan;es
+question_store;politica de boluciones;es
+question_store;asptan tarjeta;es
+question_store;tienen tienda fisica;es
+question_store;como contacto atencion cliente;es
+question_store;es legal esta tienda;es
+question_store;cuanto tiempo lleban;es
+question_store;donde ay politica de privacidad;es
+question_store;ofrecen tarjetas regalo;es
+question_store;¿Cuáles son sus horarios?;es
+question_store;¿Dónde queda su tienda?;es
+question_store;¿Cómo es su política de cambios?;es
+question_store;¿Aceptan pago fácil?;es
+question_store;¿Tienen un local físico?;es
+question_store;¿Cómo hablo con soporte?;es
+question_store;¿Esta página es segura?;es
+question_store;¿Desde cuándo operan?;es
+question_store;¿Dónde veo su aviso de privacidad?;es
+question_store;¿Venden vales de regalo?;es
+question_store;¿Qué métodos de pago aceptan?;es
+question_store;¿Hay garantía en las prendas?;es
+question_store;¿Tienen descuento para estudiantes?;es
+question_store;¿Es una empresa confiable?;es
+question_store;¿Puedo devolver un artículo?;es
+question_store;¿Tienen ofertas frecuentes?;es
+question_store;¿Cómo hago una consulta general?;es
+question_store;¿Sus productos son de calidad?;es
+question_store;¿Dónde puedo ver las opiniones de otros clientes?;es
+question_store;¿Hay alguna sucursal cerca de mí?;es
+question_store;¿Cuál es vuestro horario de la tienda?;es
+question_store;¿Dónde está vuestro establecimiento?;es
+question_store;¿Cómo va el tema de las devoluciones?;es
+question_store;¿Aceptáis Bizum?;es
+question_store;¿Tenéis tienda física en algún sitio?;es
+question_store;¿Cómo contacto con el servicio de atención al cliente?;es
+question_store;¿Es esta una tienda fiable?;es
+question_store;¿Desde cuándo estáis abiertos?;es
+question_store;¿Dónde está vuestra política de privacidad?;es
+question_store;¿Vendéis tarjetas regalo?;es
+question_store;¿Cuáles son vuestros medios de pago?;es
+question_store;¿Tenéis garantía de los productos?;es
+question_store;¿Hay algún descuento por ser familia numerosa?;es
+question_store;¿La web es segura para comprar?;es
+question_store;¿Se pueden hacer cambios de talla?;es
+question_store;¿Cuáles son vuestras redes sociales?;es
+question_store;¿Tenéis un teléfono de contacto?;es
+question_store;¿Hacéis factura de la compra?;es
+question_store;¿Está vuestro catálogo actualizado?;es
+question_store;¿Dónde puedo dejar una reseña?;es
+animal_funfact;Tell me a fun fact about cats.;en
+animal_funfact;Surprise me with a fact about penguins.;en
+animal_funfact;Do you know anything interesting about bears?;en
+animal_funfact;Tell me a fun fact about an animal.;en
+animal_funfact;Any fun fact about an animal of your choice?;en
+animal_funfact;fun fact cats;en
+animal_funfact;surprise me penguin fact;en
+animal_funfact;know interesting bear facts;en
+animal_funfact;tell fun animal fact;en
+animal_funfact;any fun animal fact u pick;en
+animal_funfact;Tell me a curious fact about a dog.;en
+animal_funfact;Give me a fun tidbit about cats.;en
+animal_funfact;Did you know something cool about owls?;en
+animal_funfact;A wild fact about any creature.;en
+animal_funfact;Blow my mind with a factoid on anteaters.;en
+animal_funfact;Any oddities about monkeys?;en
+animal_funfact;Give me a fact about horses.;en
+animal_funfact;Tell me something I don't know about elephants.;en
+animal_funfact;Got an interesting fact about dolphins?;en
+animal_funfact;A fact about tigers.;en
+animal_funfact;Tell me something neat about sloths.;en
+animal_funfact;A curious thing about giraffes?;en
+animal_funfact;Give me a funny fact about pandas.;en
+animal_funfact;Something surprising about snakes.;en
+animal_funfact;What fact do you have on chameleons?;en
+animal_funfact;Tell me an animal anecdote.;en
+animal_funfact;A random animal fact.;en
+animal_funfact;Is there an amazing fact about lions?;en
+animal_funfact;Curious info on wolves.;en
+animal_funfact;Tell me an animal secret.;en
+animal_funfact;Tell me a curiosity about a dog from here.;en
+animal_funfact;Tell me something interesting about cats.;en
+animal_funfact;Did you know an amazing fact about owls?;en
+animal_funfact;A curious fact about a Spanish animal.;en
+animal_funfact;Surprise me with a fact about brown bears.;en
+animal_funfact;Any curiosity about lynxes?;en
+animal_funfact;Give me a fact about Andalusian horses.;en
+animal_funfact;Tell me something I don't know about bulls.;en
+animal_funfact;Got an interesting fact about dolphins?;en
+animal_funfact;A fact about Iberian wolves.;en
+animal_funfact;Tell me something cool about eagles.;en
+animal_funfact;A curiosity about giraffes?;en
+animal_funfact;Give me a funny fact about foxes.;en
+animal_funfact;Something surprising about wild boars.;en
+animal_funfact;What fact do you have on mountain goats?;en
+animal_funfact;Tell me an anecdote about a farm animal.;en
+animal_funfact;A random insect fact.;en
+animal_funfact;Is there an incredible fact about swifts?;en
+animal_funfact;Curious info on hedgehogs.;en
+animal_funfact;Tell me a secret about a marine animal.;en
+bye;Goodbye!;en
+bye;See you later!;en
+bye;Bye.;en
+bye;See ya.;en
+bye;Have a good day.;en
+bye;Take care!;en
+bye;Thanks, bye.;en
+bye;I have to go.;en
+bye;It's been a pleasure, see you soon.;en
+bye;I'm signing off.;en
+bye;bye;en
+bye;cya;en
+bye;later;en
+bye;seeya;en
+bye;have a good one;en
+bye;take care;en
+bye;thanks byee;en
+bye;im goin now;en
+bye;nice chattin bye;en
+bye;im outta here;en
+bye;Cheerio! See ya.;en
+bye;Ta-ra! Have a good one.;en
+bye;Later tater! Take care now.;en
+bye;Catch ya later!;en
+bye;Have a grand day!;en
+bye;See ya around.;en
+bye;S'long.;en
+bye;All the best!;en
+bye;Cheers, I'm off.;en
+bye;Nice one, bye.;en
+bye;Bye now!;en
+bye;See ya!;en
+bye;Latr.;en
+bye;Ave a good 'un.;en
+bye;Look after yerself.;en
+bye;I'm outta here.;en
+bye;Thanks, bye bye.;en
+bye;Was good, see ya.;en
+bye;I'm checkin' out.;en
+bye;Chat over.;en
+bye;Gotta go, ta.;en
+bye;Bye for now.;en
+bye;Cya l8r.;en
+bye;Good day to ya!;en
+bye;Bye-bye then.;en
+bye;Done.;en
+bye;Till next time.;en
+bye;Don't need nothin' else, bye.;en
+bye;Logging off.;en
+bye;End session.;en
+bye;See you next time!;en
+bye;Right then, bye!;en
+bye;Bye, bye!;en
+bye;See you, champ.;en
+bye;Have a good one.;en
+bye;Take good care!;en
+bye;Thanks and see you soon.;en
+bye;I'm off now.;en
+bye;It's been a pleasure, mate.;en
+bye;Regards.;en
+bye;Bye!;en
+bye;Gbye!;en
+bye;See you later, alligator!;en
+bye;I'm closing.;en
+bye;I'm disconnecting.;en
+bye;End of conversation.;en
+bye;Done, bye.;en
+bye;Thanks for everythign.;en
+bye;That's it, see you next time.;en
+bye;Hope it goes well for u.;en
+greetings;Hi there! ??;en
+greetings;How are you doing?;en
+greetings;Good morning.;en
+greetings;Hey, hey!;en
+greetings;What's up bro?;en
+greetings;Nice to greet you!;en
+greetings;Pleasure chatting with you.;en
+greetings;How's it going?;en
+greetings;Good afternoon!;en
+greetings;Is anyone in there?;en
+greetings;hi how r u;en
+greetings;morning;en
+greetings;whats up;en
+greetings;heyy hows it going;en
+greetings;long time no see kinda;en
+greetings;hello anyone there;en
+greetings;greetings;en
+greetings;whats new;en
+greetings;afternoon;en
+greetings;sup;en
+greetings;Hey there! How are you?;en
+greetings;Howdy! How's it hangin'?;en
+greetings;Good morning! How do you do?;en
+greetings;What's up! All good?;en
+greetings;G'day! How's it goin'?;en
+greetings;Alright mate? How's life?;en
+greetings;What up doe? What's new?;en
+greetings;Hey ya'll! How's everything?;en
+greetings;How's it goin', eh? All gravy?;en
+greetings;Sup! How ya doin'?;en
+greetings;Wagwan? How u doin'?;en
+greetings;G'day, how ya goin'?;en
+greetings;Hi y'all!;en
+greetings;Wot's up?;en
+greetings;How's it?;en
+greetings;Is anyone 'round?;en
+greetings;Ello!;en
+greetings;Evenin'!;en
+greetings;How's yer day?;en
+greetings;Hi, I'm a customer!;en
+greetings;Yo! What's crackin'?;en
+greetings;How's it goin', chief?;en
+greetings;What's good, fam?;en
+greetings;Top o' the mornin' to ya!;en
+greetings;Greetings from over here.;en
+greetings;Evening all! How are things?;en
+greetings;Alright, guv'nor?;en
+greetings;Sup, dawg? Everything chill?;en
+greetings;Howdy folks!;en
+greetings;Just chuggin' along, you?;en
+greetings;Good day to ya, love!;en
+greetings;Aw, it's lovely to meet ya!;en
+greetings;Pleased as punch to see ya here.;en
+greetings;How's your day been so far?;en
+greetings;Hi, it's [name].;en
+greetings;A pleasure chattin'.;en
+greetings;Hiya, how are we doing today?;en
+greetings;Well hello there!;en
+greetings;Right then.;en
+greetings;Great to see you 'round!;en
+greetings;Hi! How's it going for you?;en
+greetings;Hey! How are we doing?;en
+greetings;What's up!;en
+greetings;Man! What's new?;en
+greetings;Hello!;en
+greetings;How are you, mate?;en
+greetings;Hey! How's it going?;en
+greetings;Very good day!;en
+greetings;What's new?;en
+greetings;Hello!;en
+greetings;Hi, mate.;en
+greetings;Alright, how's it?;en
+greetings;Good afternoon, champ.;en
+greetings;How are you today?;en
+greetings;Is anyone there?;en
+greetings;Hello everyone!;en
+greetings;Wut up?;en
+greetings;Heyy!;en
+greetings;Hiii.;en
+greetings;What's happenin' 'round here?;en
+human_help;I need to speak to a representative.;en
+human_help;Can you transfer me to an agent, please?;en
+human_help;This is urgent, I need human help.;en
+human_help;Please connect me with someone from support.;en
+human_help;Is there any way to talk to a real person?;en
+human_help;You're not understanding me, I need to talk to a human.;en
+human_help;I want to file a formal complaint, I need a supervisor.;en
+human_help;This is a fraud, I'm going to report you.;en
+human_help;I am very upset, I want to speak to someone now.;en
+human_help;Can you get someone in charge on the line?;en
+human_help;I need a solution, transfer me to someone.;en
+human_help;My problem is complicated, the bot isn't helping.;en
+human_help;I feel ripped off, I demand to speak to a superior.;en
+human_help;Is there a phone number to talk to you?;en
+human_help;I want to escalate my case, put me through to a human.;en
+human_help;I am experiencing a very sensitive issue.;en
+human_help;I cannot resolve this with a robot.;en
+human_help;It's a personal matter, I need privacy.;en
+human_help;My situation is unique and requires human attention.;en
+human_help;I believe there's a serious error, let's talk.;en
+human_help;I'm tired of repeating myself, put me through to someone.;en
+human_help;I can't find the information, can a human help me?;en
+human_help;I need personalized assistance.;en
+human_help;This is unacceptable, I want to speak to someone immediately.;en
+human_help;I'm going to sue you if you don't help me.;en
+human_help;i wanna talk to a rep;en
+human_help;transfer me to an agent pls;en
+human_help;urgent need human help;en
+human_help;conect me with suport;en
+human_help;any way to talk real person;en
+human_help;u dont get it talk to human;en
+human_help;wanna make a complain need supervisor;en
+human_help;this is a frawd im reporting u;en
+human_help;im so mad wanna talk to sumone now;en
+human_help;get sumone in charge on line;en
+human_help;need solution transfer me;en
+human_help;my problem complicated bot no help;en
+human_help;feel ripped off demand to talk to boss;en
+human_help;any number to talk to u guys;en
+human_help;wanna escallate my case put me with human;en
+human_help;having very sensitive issue;en
+human_help;cant fix this with robot;en
+human_help;personal matter need privasy;en
+human_help;my situation unique need human atention;en
+human_help;think big error lets talk;en
+human_help;tired of repeating put me with sumone;en
+human_help;cant find info can human help me;en
+human_help;need personalised help;en
+human_help;this unacceptable wanna talk sumone rite away;en
+human_help;im suing u if u dont help me;en
+human_help;I need to speak with an advisor.;en
+human_help;Can you transfer me to an executive, please?;en
+human_help;This is serious, I want to talk to someone now.;en
+human_help;The robot isn't helping me, I need a person.;en
+human_help;Is there a way to talk to real people?;en
+human_help;You are scammers, I want my money back.;en
+human_help;I don't understand, can you put me through to an operator?;en
+human_help;Can I communicate with a human, please?;en
+human_help;My order isn't arriving, this is garbage, I want to talk to someone.;en
+human_help;I'm going to report you, this is unacceptable.;en
+human_help;Your answer isn't useful, I need real help.;en
+human_help;Who can I talk to about a serious problem?;en
+human_help;I feel cheated, I demand a supervisor.;en
+human_help;Do you have a number to call customer service?;en
+human_help;I want to speak with someone in charge.;en
+human_help;My case is special, the bot can't handle it.;en
+human_help;This is ridiculous, I want to talk to a person now.;en
+human_help;I don't know what to do, I need someone who knows.;en
+human_help;Can you transfer me to customer service?;en
+human_help;I'm fed up, I want to talk to a human right away.;en
+human_help;I need to speak to an operator, please.;en
+human_help;Can you put me through to a sales rep?;en
+human_help;This is a hassle, I want to talk to a person.;en
+human_help;Put me through to someone who understands this.;en
+human_help;I can't figure it out, I need a human.;en
+human_help;This is a botch job, I want my money.;en
+human_help;I'm pissed off, put me through to a superior.;en
+human_help;Is anyone there who isn't a robot?;en
+human_help;Don't confuse me, please, let someone help me.;en
+human_help;I feel scammed, this is a joke.;en
+human_help;I need a solution now, have them call me.;en
+human_help;This bot isn't helping me at all.;en
+human_help;It's a very sensitive topic, not for chat.;en
+human_help;I want to file a complaint.;en
+human_help;I don't understand the machine.;en
+human_help;I need personalized help, this is serious.;en
+human_help;What a mess, I want to talk to someone.;en
+human_help;My problem is a mess, the chat can't fix it.;en
+human_help;I'm getting fed up, is anyone there?;en
+human_help;Have a manager call me.;en
+other;Tell me a joke.;en
+other;How are you?;en
+other;I don't understand what you're saying.;en
+other;You're very helpful.;en
+other;What day is today?;en
+other;tell me a joke;en
+other;how are u;en
+other;i dont get it;en
+other;ur very useful;en
+other;whats today;en
+greetings;What's up?;en
+other;I'm good, you?;en
+other;Dunno.;en
+other;You're cool.;en
+other;What day is it?;en
+other;Can you do somethin' else?;en
+other;Didn't get a thing.;en
+other;Is that it?;en
+other;Haha, nice one.;en
+other;Give me a random fact.;en
+other;I'm bored.;en
+other;Talk to me about something.;en
+other;Are you a bot?;en
+other;How do you work?;en
+other;Can you help me with anything else?;en
+other;Don't know what to ask.;en
+animal_funfact;Tell me somethin' funny.;en
+other;What time is it?;en
+other;Just testing.;en
+other;Thanks for the chinwag.;en
+other;Well! What's new?;en
+other;I'm good, how about you, champ?;en
+other;No idea.;en
+other;You're awesome.;en
+other;What day is today, kid?;en
+other;Don't be like that.;en
+other;I don't understand a thing you're saying.;en
+other;Is that it?;en
+other;Hahaha, that's great!;en
+other;Tell me something random.;en
+other;I'm really bored.;en
+animal_funfact;Talk to me about something cool.;en
+other;Are you a robot?;en
+other;How do you work, mate?;en
+other;Anything else you can help me with?;en
+other;I don't know what to ask, honestly.;en
+other;Tell me some gossip.;en
+other;What time is it, by the way?;en
+other;I'm just testing.;en
+other;Thanks for the chat.;en
+question_delivery;Do you ship to Mexico?;en
+question_delivery;How long does shipping to Madrid take?;en
+question_delivery;What's the shipping cost to Argentina?;en
+question_delivery;How can I track my order?;en
+question_delivery;My order hasn't arrived, what should I do?;en
+question_delivery;Is express shipping possible?;en
+question_delivery;Are deliveries made on holidays?;en
+question_delivery;Which courier do you use for international shipments?;en
+question_delivery;Why is my shipment delayed?;en
+question_delivery;Is there any additional customs cost?;en
+question_delivery;ship to mexico;en
+question_delivery;how long ship madrid;en
+question_delivery;shipping cost argentina;en
+question_delivery;track my order;en
+question_delivery;order didnt come wut do;en
+question_delivery;express ship possible;en
+question_delivery;deliver holidays;en
+question_delivery;wat courier intl ship;en
+question_delivery;y my order late;en
+question_delivery;any extra custom fee;en
+question_delivery;Do you ship to Colombia?;en
+question_delivery;How long does shipping to Chile take?;en
+question_delivery;What's the shipping cost to Peru?;en
+question_delivery;How can I track my shipment?;en
+question_delivery;My order hasn't arrived, what's up?;en
+question_delivery;Is express shipping to Argentina possible?;en
+question_delivery;Do you deliver in Bolivia on weekends?;en
+question_delivery;Which courier do you use for international shipments to Ecuador?;en
+question_delivery;Why is my shipment delayed?;en
+question_delivery;Is there any additional customs charge in Uruguay?;en
+question_delivery;Do you ship nationwide?;en
+question_delivery;How long till it gets to my gaff?;en
+question_delivery;What's the postage cost to my area?;en
+question_delivery;How do I track my parcel?;en
+question_delivery;My package ain't here, what's up?;en
+question_delivery;Can I get expedited shipping?;en
+question_delivery;Do you deliver on Saturdays?;en
+question_delivery;Which courier do you use for deliveries?;en
+question_delivery;Why's my parcel late?;en
+question_delivery;Are there any customs fees?;en
+question_delivery;Is delivery free?;en
+question_delivery;When do you dispatch my order?;en
+question_delivery;Can I pick up my purchase?;en
+question_delivery;What happens if I'm not in to receive it?;en
+question_delivery;Does delivery cost vary by weight?;en
+question_delivery;Do you deliver to the provinces?;en
+question_delivery;Can the delivery address be changed?;en
+question_delivery;Has my order gone out yet?;en
+question_delivery;What time do deliveries arrive?;en
+question_delivery;Do I need to sign for it?;en
+question_delivery;Do you ship to the Canary Islands?;en
+question_delivery;How long does shipping to a village take?;en
+question_delivery;What's the shipping cost for the Balearic Islands?;en
+question_delivery;How do I track my order with Correos?;en
+question_delivery;My parcel hasn't arrived, what do I do now?;en
+question_delivery;Is there urgent delivery?;en
+question_delivery;Do you deliver on holidays?;en
+question_delivery;Which courier service do you use for orders?;en
+question_delivery;Why is my shipment delayed?;en
+question_delivery;Is there an extra charge for customs in Ceuta?;en
+question_delivery;Is shipping free to the Peninsula?;en
+question_delivery;How long does my package take to arrive?;en
+question_delivery;What's up with my shipment?;en
+question_delivery;Does home delivery have a cost?;en
+question_delivery;Can I collect in store?;en
+question_delivery;Is there a charge for cash on delivery?;en
+question_delivery;When does my package arrive?;en
+question_delivery;Which carrier do you use?;en
+question_delivery;Can the collection point be changed?;en
+question_delivery;My order doesn't appear in the tracker.;en
+question_item;What material is the tiger t-shirt?;en
+question_item;Do you have the owl t-shirt in size M?;en
+question_item;Is this lion t-shirt organic cotton?;en
+question_item;Does the dog t-shirt come in other colors?;en
+question_item;Is the black cat t-shirt in stock?;en
+question_item;Show me the giraffe t-shirt.;en
+question_item;Is the capybara t-shirt unisex?;en
+question_item;What are the measurements for the shoebill t-shirt?;en
+question_item;Does the koala t-shirt shrink when washed?;en
+question_item;Could you give me more details about the whale t-shirt?;en
+question_item;wat matrial tiger tee;en
+question_item;do u hav owl shirt m;en
+question_item;lion shirt organic cotton;en
+question_item;dog t shirt other colors;en
+question_item;is black cat shirt in stock;en
+question_item;show me giraffe shirt;en
+question_item;wolf shirt unisex;en
+question_item;panda tee size;en
+question_item;koala shirt shrinks;en
+question_item;more info whale shirt;en
+question_item;What fabric is the capybara t-shirt made of?;en
+question_item;Do you have the axolotl t-shirt in small size?;en
+question_item;Is this lizard t-shirt organic cotton?;en
+question_item;Does the shoebill t-shirt come in other colors?;en
+question_item;Is the capybara t-shirt in stock?;en
+question_item;Show me the shoebill heron t-shirt.;en
+question_item;Is the wolf t-shirt unisex?;en
+question_item;What are the measurements for the panda t-shirt?;en
+question_item;Does the koala t-shirt shrink when washed?;en
+question_item;Could you give me more info about the whale t-shirt?;en
+question_item;Are there chameleon t-shirts?;en
+question_item;I want to see the turtle t-shirt.;en
+question_item;Does this frog t-shirt have my size?;en
+question_item;Is the alligator t-shirt available?;en
+question_item;Can you show me the cheetah t-shirt?;en
+question_item;Do you have animal socks?;en
+question_item;How much are the duck-design socks?;en
+question_item;What sizes do you handle for the t-shirts?;en
+question_item;Is the polar bear jacket available?;en
+question_item;Is this animal print shirt for men?;en
+question_item;Is this monkey polo cotton?;en
+question_item;Do you have the croc tee in size L?;en
+question_item;Does the hawk top come in more colours?;en
+question_item;Is the alpaca t-shirt unisex?;en
+question_item;Give me info on the toucan shirt.;en
+question_item;Is the jaguar t-shirt good quality?;en
+question_item;Do you have this puma tee in XS?;en
+question_item;What are the measurements for the armadillo top?;en
+question_item;Does the dolphin t-shirt shrink?;en
+question_item;Are there more animal tee designs?;en
+question_item;Is the condor shirt authentic?;en
+question_item;Do you have penguin socks?;en
+question_item;What's the material of the bear jacket?;en
+question_item;Is this eagle t-shirt for women?;en
+question_item;Are sloth tops available?;en
+question_item;Can you send me pics of the zebra t-shirt?;en
+question_item;Is the bee shirt on sale?;en
+question_item;Do you have koala-patterned t-shirts?;en
+question_item;Are the parrot tees long-sleeved?;en
+question_item;How much is the cheetah top?;en
+question_item;What's the Iberian lynx t-shirt made of?;en
+question_item;Do you have the brown bear t-shirt in size L?;en
+question_item;Is this eagle t-shirt cotton?;en
+question_item;Does the wolf t-shirt have other prints?;en
+question_item;Is the chameleon t-shirt in stock?;en
+question_item;Show me the little bull t-shirt.;en
+question_item;Is the vulture t-shirt for a boy or girl?;en
+question_item;What are the measurements for the lizard t-shirt?;en
+question_item;Does the mountain goat t-shirt lose color?;en
+question_item;Can you give me more info on the rooster t-shirt?;en
+question_item;Do the bear t-shirts have any variety?;en
+question_item;Is there a sheep jumper?;en
+question_item;Is this wild boar garment seasonal?;en
+question_item;Do you have flamingo socks?;en
+question_item;Can you show me the eagle design jacket?;en
+question_item;How much is the dog t-shirt?;en
+question_item;Cat t-shirt, any more colors?;en
+question_item;Is the deer t-shirt short-sleeved?;en
+question_item;What sizes do you have for the falcon t-shirt?;en
+question_item;Is the imperial eagle t-shirt available?;en
+question_offers;Do you have any discounts right now?;en
+question_offers;Are there any offers on animal t-shirts?;en
+question_offers;Do you have a discount code for the first purchase?;en
+question_offers;When do the sales start?;en
+question_offers;Is there any free shipping promotion?;en
+question_offers;any discounts now;en
+question_offers;animal t shirt offers;en
+question_offers;discount code first buy;en
+question_offers;when sales start;en
+question_offers;free ship promo;en
+question_offers;Any active deals on?;en
+question_offers;Are there any sales on t-shirts?;en
+question_offers;Do you have any discount vouchers?;en
+question_offers;When are the clearance sales?;en
+question_offers;Is there a buy one get one free offer?;en
+question_offers;Do you do bulk discounts?;en
+question_offers;Any seasonal promos goin' on?;en
+question_offers;What's the biggest discount?;en
+question_offers;Do you have a promo code?;en
+question_offers;Are the offers online only?;en
+question_offers;Are there deals on the t-shirts?;en
+question_offers;When do the promotions end?;en
+question_offers;Do you have a new customer discount?;en
+question_offers;Are there any combo deals?;en
+question_offers;What discounts do you have for Animal Day?;en
+question_offers;Do the discounts apply to everything?;en
+question_offers;Can offers be combined?;en
+question_offers;Any cash discounts?;en
+question_offers;Do you have a points program?;en
+question_offers;What are the current promos?;en
+question_offers;Do you have any offers right now?;en
+question_offers;Are there sales on animal t-shirts?;en
+question_offers;Do you have a discount code for new customers?;en
+question_offers;When do the summer sales start?;en
+question_offers;Is there a free shipping promo?;en
+question_offers;Do you have student discounts?;en
+question_offers;Is there any offer for the Christmas campaign?;en
+question_offers;What's the maximum discount you have?;en
+question_offers;Is there a coupon I can use?;en
+question_offers;Are the offers only for the website?;en
+question_offers;Are there promotions on the lynx t-shirts?;en
+question_offers;How long do the offers last?;en
+question_offers;Do you have a discount for buying several t-shirts?;en
+question_offers;Are there promos for Black Friday?;en
+question_offers;What discounts do you have for regular customers?;en
+question_offers;Do the discounts apply automatically?;en
+question_offers;Can several discounts be used at once?;en
+question_offers;Are there offers for being a large family?;en
+question_offers;Do you have discounts in the new arrivals section?;en
+question_offers;What are your most prominent offers?;en
+question_prices;How much does the elephant t-shirt cost?;en
+question_prices;What's the price of the zebra t-shirt?;en
+question_prices;Do the t-shirts have the same price?;en
+question_prices;Is there a special price for buying several?;en
+question_prices;Does the price include VAT?;en
+question_prices;how much elephant shirt;en
+question_prices;zebra shirt price;en
+question_prices;same price shirts;en
+question_prices;special price for many;en
+question_prices;price include tax;en
+question_prices;How much for the elephant tee?;en
+question_prices;What's the price tag on the zebra shirt?;en
+question_prices;Are the t-shirts all the same dough?;en
+question_prices;Is there a deal if I buy a few?;en
+question_prices;Does the price include VAT?;en
+question_prices;What's the cost of the giraffe top?;en
+question_prices;Are there any price deals?;en
+question_prices;What's the final price with shipping?;en
+question_prices;How much are the socks?;en
+question_prices;Can I pay in instalments?;en
+question_prices;Can you tell me the cost of the wolf tee?;en
+question_prices;The animal jacket, how much does it run?;en
+question_prices;Is this the current price?;en
+question_prices;Is there a purchase limit for discounts to apply?;en
+question_prices;Are these fixed prices?;en
+question_prices;Could I see the price list?;en
+question_prices;Is there a promo for the price?;en
+question_prices;Do you have wholesale prices?;en
+question_prices;Does the price include taxes?;en
+question_prices;Can you give me a quote?;en
+question_prices;How much does the wolf t-shirt cost?;en
+question_prices;What's the price of the bull t-shirt?;en
+question_prices;Do all t-shirts have the same price?;en
+question_prices;Is there a special price if I buy several?;en
+question_prices;Does the price include VAT?;en
+question_prices;What's the cost of the bear t-shirt?;en
+question_prices;Are there deals on the prices?;en
+question_prices;What's the total price with shipping?;en
+question_prices;How much are the socks?;en
+question_prices;Can I pay in installments?;en
+question_prices;Tell me the price of the lynx t-shirt.;en
+question_prices;The animal jacket, what's its price?;en
+question_prices;Is this the final price?;en
+question_prices;Is there a minimum purchase for discounts?;en
+question_prices;Are these fixed prices?;en
+question_prices;Can you give me a price list?;en
+question_prices;Is there a promotion on the price?;en
+question_prices;Do you have prices for stores?;en
+question_prices;Does the price already include taxes?;en
+question_prices;Can you give me a quote for several t-shirts?;en
+question_store;What are your opening hours?;en
+question_store;Where are you located?;en
+question_store;What is your return policy?;en
+question_store;Do you accept credit card payments?;en
+question_store;Do you have a physical store?;en
+question_store;How can I contact customer service?;en
+question_store;Is this store legitimate?;en
+question_store;How long have you been operating?;en
+question_store;Where can I find your privacy policy?;en
+question_store;Do you offer gift cards?;en
+question_store;store hours;en
+question_store;where u at;en
+question_store;returns policy;en
+question_store;take card;en
+question_store;physical store;en
+question_store;how contact cust service;en
+question_store;is this store real;en
+question_store;how long u been open;en
+question_store;privacy policy where;en
+question_store;gift cards;en
+question_store;What are your opening hours?;en
+question_store;Where's your shop at?;en
+question_store;What's your exchange policy?;en
+question_store;Do you take easy pay?;en
+question_store;Do you have a brick-and-mortar store?;en
+question_store;How do I talk to support?;en
+question_store;Is this site legit?;en
+question_store;How long have you been in biz?;en
+question_store;Where can I find your privacy notice?;en
+question_store;Do you sell gift vouchers?;en
+question_store;What payment methods do you accept?;en
+question_store;Is there a guarantee on the clothes?;en
+question_store;Do you have a student discount?;en
+question_store;Is this a reliable company?;en
+question_store;Can I return an item?;en
+question_store;Do you have frequent sales?;en
+question_store;How do I make a general inquiry?;en
+question_store;Are your products good quality?;en
+question_store;Where can I see other customer reviews?;en
+question_store;Is there a branch near me?;en
+question_store;What are your shop's opening hours?;en
+question_store;Where is your establishment located?;en
+question_store;How does the returns process work?;en
+question_store;Do you accept Bizum?;en
+question_store;Do you have a physical store anywhere?;en
+question_store;How do I contact customer service?;en
+question_store;Is this a reliable store?;en
+question_store;How long have you been open?;en
+question_store;Where is your privacy policy?;en
+question_store;Do you sell gift cards?;en
+question_store;What are your payment methods?;en
+question_store;Do your products have a warranty?;en
+question_store;Is there a large family discount?;en
+question_store;Is the website safe to buy from?;en
+question_store;Can size changes be made?;en
+question_store;What are your social media accounts?;en
+question_store;Do you have a contact phone number?;en
+question_store;Do you issue an invoice for the purchase?;en
+question_store;Is your catalog updated?;en
+question_store;Where can I leave a review?;en
+confirm;Sí, exacto.;es
+confirm;Así es.;es
+confirm;Claro que sí.;es
+confirm;Correcto.;es
+confirm;Afirmativo.;es
+confirm;Estoy de acuerdo.;es
+confirm;Entendido.;es
+confirm;Dale.;es
+confirm;Va.;es
+confirm;Eso.;es
+confirm;Justo.;es
+confirm;Así mismo.;es
+confirm;Por supuesto.;es
+confirm;Evidente.;es
+confirm;Exactamente.;es
+confirm;Efectivamente.;es
+confirm;Sí, porfa.;es
+confirm;Eso mero.;es
+confirm;De una.;es
+confirm;Sin problema.;es
+confirm;Ok.;es
+confirm;S.;es
+confirm;Dalee.;es
+confirm;Confirmo.;es
+confirm;Así es, gracias.;es
+confirm;Yes.;es
+confirm;Totally.;es
+confirm;Right on.;en
+confirm;You got it.;en
+confirm;Affirm.;en
+confirm;Sounds good.;en
+confirm;Agreed.;en
+confirm;Understand.;en
+confirm;Sure thing.;en
+confirm;Aye;en
+confirm;Dead right.;en
+confirm;That's the one.;en
+confirm;Absolutely.;en
+confirm;Definitely.;en
+confirm;Precisely.;en
+confirm;Indubitably.;en
+confirm;Yeah, go for it.;en
+confirm;That's it.;en
+confirm;Cool.;en
+confirm;Okie dokie.;en
+confirm;Yah.;en
+confirm;K.;en
+confirm;Yep.;en
+confirm;Gotcha.;en
+confirm;Correctamundo.;es
+negate;No.;es
+negate;Para nada.;es
+negate;Incorrecto.;es
+negate;De ninguna manera.;es
+negate;Nada de eso.;es
+negate;Ni de broma.;es
+negate;Ni a palo.;es
+negate;Negativo.;es
+negate;No, gracias.;es
+negate;Nada que ver.;es
+negate;No es así.;es
+negate;Error.;es
+negate;Falso.;es
+negate;Eso no.;es
+negate;No estoy de acuerdo.;es
+negate;No es cierto.;es
+negate;No, para nada.;es
+negate;Na.;es
+negate;Nu.;es
+negate;Nop.;es
+negate;K no.;es
+negate;No quiero.;es
+negate;No me sirve.;es
+negate;De eso nada.;es
+negate;No, esa no.;es
+negate;Noooooooooo;es
+negate;Nope.;es
+negate;Nah.;en
+negate;Incorrect.;en
+negate;By no means.;en
+negate;Not a chance.;en
+negate;Not on your life;en
+negate;No way, Jose.;en
+negate;Negative.;en
+negate;No, thank you.;en
+negate;That's not right.;en
+negate;Wrong.;en
+negate;Untrue.;en
+negate;Not that one.;en
+negate;I disagree.;en
+negate;Ain't right.;en
+negate;Naw.;en
+negate;Nix.;en
+negate;Nuh-uh.;en
+negate;Dunno why.;en
+negate;Not this time.;en
+negate;Not interested.;en
+negate;Forget it.;en
+negate;No ta.;en
+negate;Naah, not that.;en
+thank_you;Gracias.;es
+thank_you;Muchas gracias.;es
+thank_you;Te lo agradezco.;es
+thank_you;Mil gracias.;es
+thank_you;Gracias por tu ayuda.;es
+thank_you;Muy amable.;es
+thank_you;Graciassss.;es
+thank_you;Me hiciste un favor.;es
+thank_you;Te pasaste.;es
+thank_you;De lujo.;es
+thank_you;Gracias a ti.;es
+thank_you;Agradecido/a.;es
+thank_you;Muy agradecido/a.;es
+thank_you;Qué bueno.;es
+thank_you;Genial, gracias.;es
+thank_you;Un millón de gracias.;es
+thank_you;Por la ayuda, gracias.;es
+thank_you;Chevere, gracias.;es
+thank_you;Eres un sol, gracias.;es
+thank_you;Gracias por la info.;es
+thank_you;Grax.;es
+thank_you;Muchisimas gracias.;es
+thank_you;Te agradesco.;es
+thank_you;Por ayudarme, gracias.;es
+thank_you;Siii, gracias.;es
+thank_you;Thank you.;es
+thank_you;Cheers.;es
+thank_you;Ta.;es
+thank_you;Much obliged.;en
+thank_you;I appreciate that.;en
+thank_you;Thanks a bunch.;en
+thank_you;You're a star;en
+thank_you;Thanks for sorting it.;en
+thank_you;Bless you.;en
+thank_you;Top man.;en
+thank_you;You're a lifesaver.;en
+thank_you;So grateful.;en
+thank_you;Thanks for everything.;en
+thank_you;Good one, thanks.;en
+thank_you;A big thank you.;en
+thank_you;Grassy ass.;en
+thank_you;Tnx.;en
+thank_you;Ty.;en
+thank_you;Thanx.;en
+thank_you;U rock, thanks.;en
+thank_you;Thx for the help.;en
+thank_you;Awesome, thanks.;en
+thank_you;You're the best.;en
+thank_you;Cheers, mate;en
+thank_you;Gracias dude.;en
+cancel_task;Cancelar.;es
+cancel_task;Quiero cancelar.;es
+cancel_task;No quiero seguir.;es
+cancel_task;Detener.;es
+cancel_task;Borrar todo.;es
+cancel_task;Recomenzar.;es
+cancel_task;Empezar de nuevo.;es
+cancel_task;Anular.;es
+cancel_task;Deshacer.;es
+cancel_task;Parar ya.;es
+cancel_task;Quitar esto.;es
+cancel_task;No me interesa.;es
+cancel_task;Dar marcha atrás.;es
+cancel_task;Abortar.;es
+cancel_task;Descartar.;es
+cancel_task;No, así no.;es
+cancel_task;Reiniciar conversación.;es
+cancel_task;Olvídalo.;es
+cancel_task;Cierra esto.;es
+cancel_task;Basta.;es
+cancel_task;Cancela.;es
+cancel_task;No seguir.;es
+cancel_task;Borra.;es
+cancel_task;Resetear.;es
+cancel_task;Volver a empezar.;es
+cancel_task;Cancel.;en
+cancel_task;I wanna cancel.;en
+cancel_task;Don't wanna continue.;en
+cancel_task;Stop it.;en
+cancel_task;Clear everything.;en
+cancel_task;Restart it.;en
+cancel_task;Begin again.;en
+cancel_task;Void.;en
+cancel_task;Undo that.;en
+cancel_task;Pack it in.;en
+cancel_task;Bin this.;en
+cancel_task;Not bothered.;en
+cancel_task;Call it off.;en
+cancel_task;Scrub it.;en
+cancel_task;No, that's not right.;en
+cancel_task;Reset chat.;en
+cancel_task;Never mind.;en
+cancel_task;Close this out.;en
+cancel_task;Enough already.;en
+cancel_task;Kancel.;en
+cancel_task;No moar.;en
+cancel_task;Delete all.;en
+cancel_task;Reboot.;en
+cancel_task;Start from scratch.;en
+cancel_task;Stop dis.;en
+question_returns;¿Cómo hago una devolución?;es
+question_returns;¿Puedo devolver un artículo?;es
+question_returns;¿Cuál es su política de devoluciones?;es
+question_returns;¿Cuánto tiempo tengo para devolver algo?;es
+question_returns;¿Aceptan devoluciones?;es
+question_returns;¿Cómo es el proceso de devolución?;es
+question_returns;Quiero cambiar mi compra.;es
+question_returns;¿Me devuelven el dinero si devuelvo el producto?;es
+question_returns;¿Tienen devoluciones gratis?;es
+question_returns;¿Puedo devolver esto sin el ticket?;es
+question_returns;¿Se puede devolver una prenda usada?;es
+question_returns;¿Devuelven la plata?;es
+question_returns;¿Se aceptan cambios?;es
+question_returns;¿Dónde devuelvo mi pedido?;es
+question_returns;¿Cómo me reembolsan?;es
+question_returns;¿Hay que pagar por devolver?;es
+question_returns;Quiero echar para atrás mi compra.;es
+question_returns;¿Qué pasa si el producto está dañado?;es
+question_returns;Me gustaría una devolución.;es
+question_returns;¿La devolución es complicada?;es
+question_returns;Politica d devolucion?;es
+question_returns;Devolucion gratis?;es
+question_returns;Como hago pa devolver?;es
+question_returns;Aceptan dev?;es
+question_returns;Reembolsan?;es
+question_returns;How do I make a return?;en
+question_returns;Can I return a product?;en
+question_returns;What's your returns policy?;en
+question_returns;How long do I have to return something?;en
+question_returns;Do you accept returns?;en
+question_returns;What's the return process like?;en
+question_returns;I want to exchange my purchase.;en
+question_returns;Do I get my money back if I return the product?;en
+question_returns;Do you have free returns?;en
+question_returns;Can I return this without the receipt?;en
+question_returns;Can a used garment be returned?;en
+question_returns;Are exchanges accepted?;en
+question_returns;Where do I return my order?;en
+question_returns;How do I get refunded?;en
+question_returns;Do I have to pay to return?;en
+question_returns;I want to reverse my purchase.;en
+question_returns;What happens if the product is damaged?;en
+question_returns;I'd like a refund.;en
+question_returns;Is returning complicated?;en
+question_returns;Return policy?;en
+question_returns;Free return?;en
+question_returns;How do I return?;en
+question_returns;Refund?;en
+question_returns;Esta remera no me queda.;es
+question_returns;Me va pequeña esta camiseta.;es
+question_returns;La polera me queda chica.;es
+question_returns;Esto me queda grande.;es
+question_returns;Me aprieta la playera.;es
+question_returns;La talla es muy justa.;es
+question_returns;Esto no es mi talla.;es
+question_returns;Necesito una más grande.;es
+question_returns;Quiero una talla más.;es
+question_returns;Esta franela me queda floja.;es
+question_returns;Me va holgada.;es
+question_returns;Es muy pequeña para mí.;es
+question_returns;Demasiado grande.;es
+question_returns;Me queda corta de mangas.;es
+question_returns;Me queda larga.;es
+question_returns;No me ajusta bien.;es
+question_returns;La chamarra me queda apretada.;es
+question_returns;Me queda bailando. (Chile/Argentina);es
+question_returns;No me entra.;es
+question_returns;¿Tienen tallas más grandes?;es
+question_returns;¿Hay en una talla menor?;es
+question_returns;Esta remera es talla M, pero me queda S.;es
+question_returns;Me queda angosta.;es
+question_returns;No es mi medida.;es
+question_returns;Siento que me queda mal.;es
+question_returns;Me queda como un saco.;es
+question_returns;Me queda justa.;es
+question_returns;Necesito un talle más.;es
+question_returns;Me queda chica de hombros.;es
+question_returns;La polera me queda ancha.;es
+question_returns;No es mi número.;es
+question_returns;Me queda por debajo.;es
+question_returns;Me queda por arriba.;es
+question_returns;La camisa me queda ajustada.;es
+question_returns;Me queda gigante.;es
+question_returns;No me entra por la cabeza.;es
+question_returns;Siento que es muy ceñida.;es
+question_returns;Me queda bien apretada.;es
+question_returns;La talla no corresponde.;es
+question_returns;Esto no calza.;es
+question_returns;Me queda incomoda.;es
+question_returns;Es muy larga para mí.;es
+question_returns;Me queda estrecha.;es
+question_returns;Esto está mal tallado.;es
+question_returns;No me entra bien.;es
+question_returns;Talla erronea.;es
+question_returns;No sirve mi talla.;es
+question_returns;Me queda mal.;es
+question_returns;Muy grande.;es
+question_returns;Muy chico.;es
+question_returns;This t-shirt doesn't fit me.;en
+question_returns;This tee is too small for me.;en
+question_returns;The top fits me tight.;en
+question_returns;This is too big on me.;en
+question_returns;The shirt is squeezing me.;en
+question_returns;The size is too snug.;en
+question_returns;This ain't my size.;en
+question_returns;I need a bigger one.;en
+question_returns;I want the next size up.;en
+question_returns;This garment is baggy on me.;en
+question_returns;It's loose-fitting.;en
+question_returns;It's too tiny for me.;en
+question_returns;Way too massive.;en
+question_returns;It's short on the sleeves.;en
+question_returns;It's too long.;en
+question_returns;Doesn't fit right.;en
+question_returns;The jacket is tight on me.;en
+question_returns;It's hangin' off me.;en
+question_returns;Can't get into it.;en
+question_returns;Do you have larger sizes?;en
+question_returns;Is there a smaller size?;en
+question_returns;This t-shirt is size M, but it fits like an S.;en
+question_returns;It's narrow on me.;en
+question_returns;Not my measurement.;en
+question_returns;Feels like it fits bad.;en
+question_returns;It fits like a sack.;en
+question_returns;It's a tight fit.;en
+question_returns;I need another size.;en
+question_returns;It's tight on the shoulders.;en
+question_returns;The top is wide on me.;en
+question_returns;It's not my number.;en
+question_returns;It hangs below.;en
+question_returns;It's too short.;en
+question_returns;The shirt is snug.;en
+question_returns;It's humongous.;en
+question_returns;Can't get my head through.;en
+question_returns;Feels too constricted.;en
+question_returns;It's real tight.;en
+question_returns;The sizing's off.;en
+question_returns;This don't jive.;en
+question_returns;It's uncomfortable.;en
+question_returns;It's too lengthy for me.;en
+question_returns;It's cramped.;en
+question_returns;This is badly sized.;en
+question_returns;It don't go on right.;en
+question_returns;Wrong size.;en
+question_returns;My size ain't right.;en
+question_returns;It fits poorly.;en
+question_returns;Too big.;en
+question_returns;Too tiny.;en
+bye;Nos pillamos.;es
+bye;Que te vaya genial.;es
+bye;Hasta la vista.;es
+bye;Cuidate mucho.;es
+bye;Un abrazo.;es
+bye;Que tengas buen día.;es
+bye;Adiós, mi gente.;es
+bye;Hasta la próxima.;es
+bye;Ya me voy.;es
+bye;Me despido.;es
+bye;Se me hace tarde, adiós.;es
+bye;Vuelvo más tarde.;es
+bye;Nos hablamos.;es
+bye;Que descanses.;es
+bye;no vimo en disney;es
+bye;Que te vaya bonito. ;es
+bye;Hasta el lunes.;es
+bye;Chao pescao;es
+bye;Nos vemos luego.;es
+bye;Qué paséis buen día. ;es
+bye;Ahí nos vimos.;es
+bye;Me esfumo.;es
+bye;Hasta entonces.;es
+bye;Buen viaje.;es
+bye;Adiosito.;es
+bye;Que la pases bien.;es
+bye;Me retiro.;es
+bye;Nos vemos pronto.;es
+bye;Fue un placer.;es
+bye;Cierro la sesión.;es
+bye;Nos contactamos.;es
+bye;Que Dios te bendiga.;es
+bye;Que te sea leve.;es
+bye;Me piro.;es
+bye;Un saludo grande.;es
+bye;Nos seguimos hablando.;es
+bye;Hasta la victoria.;es
+bye;Fue un gusto.;es
+bye;Que la fuerza te acompañe.;es
+bye;Me desconecto ahora.;es
+bye;Hablamos pronto.;es
+bye;Que lo disfrutes.;es
+bye;Chauchis;es
+bye;Hasta la vuelta.;es
+bye;Que te rinda el día.;es
+bye;Con permiso, me retiro.;es
+bye;Que todo bien.;es
+bye;Ahí te veo.;es
+bye;Me despido cordialmente.;es
+bye;Nos leemos.;es
+bye;Que tengas una linda noche.;es
+bye;Catch ya later.;en
+bye;Have a gd one.;en
+bye;Farewell.;en
+bye;Take care.;en
+bye;All the best.;en
+bye;Have a grand day.;en
+bye;Cheerio.;en
+bye;Seeya around.;en
+bye;I'm off.;en
+bye;So long.;en
+bye;Gotta run, bye.;en
+bye;Be back later.;en
+bye;Talk soon.;en
+bye;Sleep tight.;en
+bye;Have a good 'un.;en
+bye;See you Monday.;en
+bye;Later, gator.;en
+bye;Catch you in a bit.;en
+bye;Have a smashing day.;en
+bye;Catch you on the flip side.;en
+bye;I'm out.;en
+bye;Until then.;en
+bye;Safe travels.;en
+bye;Ta-ta.;en
+bye;Have a good time.;en
+bye;I'm taking off.;en
+bye;See you shortly.;en
+bye;It was a pleasure.;en
+bye;Loggign off.;en
+bye;We'll be in touch.;en
+bye;Godspeed.;en
+bye;Keep well.;en
+bye;Signing out.;en
+bye;Warm regards.;en
+bye;We'll catch up later.;en
+bye;Adieu.;en
+bye;It's been a blast.;en
+bye;May the force be with you.;en
+bye;Disconnecting now.;en
+bye;Chat soon.;en
+bye;Enjoy yourself.;en
+bye;Bye-bye.;en
+bye;See you when I see you.;en
+bye;Have a productive day.;en
+bye;Excuse me, I'm leaving.;en
+bye;All good.;en
+bye;Seeya.;en
+bye;Regarsds.;en
+bye;Speak to you later.;en
+bye;Have a lovely evening.;en
+cancel_task;Quiero echarme para atrás con esto.;es
+cancel_task;Ignora lo último que te dije.;es
+cancel_task;Borra lo que estaba haciendo.;es
+cancel_task;No sigas con esto.;es
+cancel_task;Termina con este proceso.;es
+cancel_task;Quiero deshacer esta acción.;es
+cancel_task;Por favor, desactiva esto.;es
+cancel_task;Elimina mi solicitud.;es
+cancel_task;Deja esto como estaba antes.;es
+cancel_task;No lo hagas.;es
+cancel_task;Frena esto.;es
+cancel_task;Deten la operación.;es
+cancel_task;Echa para atrás la orden.;es
+cancel_task;Deshaz el paso anterior.;es
+cancel_task;No continúes con la compra.;es
+cancel_task;Abortar misión.;es
+cancel_task;Quiero echar el freno.;es
+cancel_task;No es lo que buscaba, para.;es
+cancel_task;Regresa al inicio.;es
+cancel_task;Olvida esta parte.;es
+cancel_task;Retrocede.;es
+cancel_task;Cancélame la cosa esta.;es
+cancel_task;No hagas eso.;es
+cancel_task;Desactiva.;es
+cancel_task;No es lo que quería.;es
+cancel_task;Quítamelo de la lista.;es
+cancel_task;Detente ahí.;es
+cancel_task;No proceses esto.;es
+cancel_task;Dame un paso atrás.;es
+cancel_task;Elimina la tarea.;es
+cancel_task;Paremos aquí.;es
+cancel_task;No me interesa seguir.;es
+cancel_task;Desestima mi última indicación.;es
+cancel_task;Deshazlo todo.;es
+cancel_task;Quiero abandonar esto.;es
+cancel_task;Sin efecto.;es
+cancel_task;Retractar solicitud.;es
+cancel_task;No proceder.;es
+cancel_task;Corta por lo sano.;es
+cancel_task;Dejar sin efecto.;es
+cancel_task;No más.;es
+cancel_task;Parar esto.;es
+cancel_task;No va.;es
+cancel_task;Quitar.;es
+cancel_task;Deshacer acción.;es
+cancel_task;Borrar entrada.;es
+cancel_task;Quiero revertir esto.;es
+cancel_task;Bloquea esto.;es
+cancel_task;Haz un reset.;es
+cancel_task;No quiero seguir con la conversación actual.;es
+cancel_task;I wanna back out of this.;en
+cancel_task;Disregard my last message.;en
+cancel_task;Clear what I was doing.;en
+cancel_task;Don't go on with this.;en
+cancel_task;End this process.;en
+cancel_task;I wish to undo this action.;en
+cancel_task;Please, shut this down.;en
+cancel_task;Delete my request.;en
+cancel_task;Revert this to how it was.;en
+cancel_task;Don't do it.;en
+cancel_task;Halt this.;en
+cancel_task;Stop the operation.;en
+cancel_task;Pull back the order.;en
+cancel_task;Undo the previous step.;en
+cancel_task;Don't proceed with the purchase.;en
+cancel_task;Abort mission.;en
+cancel_task;I wanna hit the brakes.;en
+cancel_task;Not what I was after, stop.;en
+cancel_task;Go back to the start.;en
+cancel_task;Forget this bit.;en
+cancel_task;Step back.;en
+cancel_task;Cancel this thing for me.;en
+cancel_task;Don't do that.;en
+cancel_task;Deactivate.;en
+cancel_task;It's not what I wanted.;en
+cancel_task;Take it off the list for me.;en
+cancel_task;Stop right there.;en
+cancel_task;Don't process this.;en
+cancel_task;Give me a step back.;en
+cancel_task;Eliminate the task.;en
+cancel_task;Let's pause here.;en
+cancel_task;I'm not interested in continuing.;en
+cancel_task;Discount my last instruction.;en
+cancel_task;Undo everything.;en
+cancel_task;I want to abandon this.;en
+cancel_task;No effect.;en
+cancel_task;Retract request.;en
+cancel_task;Do not proceed.;en
+cancel_task;Cut it short.;en
+cancel_task;Render ineffective.;en
+cancel_task;No more of this.;en
+cancel_task;Stop this.;en
+cancel_task;Not working.;en
+cancel_task;Remove.;en
+cancel_task;Undo action.;en
+cancel_task;Delete entry.;en
+cancel_task;I want to reverse this.;en
+cancel_task;Block this.;en
+cancel_task;Do a reset.;en
+cancel_task;I don't want to continue this current chat.;en
+confirm;Dale, sí.;es
+confirm;Eso mismo.;es
+confirm;Perfecto.;es
+confirm;Es correcto.;es
+confirm;Conforme.;es
+confirm;Lo tienes.;es
+confirm;Así es, grax.;es
+confirm;Ciertamente.;es
+confirm;Por supuesto que sí.;es
+confirm;Ya lo creo.;es
+confirm;Sin duda.;es
+confirm;Exacto, eso quería.;es
+confirm;Me parece bien.;es
+confirm;Adelante.;es
+confirm;Con gusto.;es
+confirm;Todo bien.;es
+confirm;Lo has captado.;es
+confirm;Muy bien.;es
+confirm;Sí, eso es.;es
+confirm;Justo en el clavo.;es
+confirm;De acuerdo.;es
+confirm;Sí, afirmativo.;es
+confirm;Tal cual.;es
+confirm;Eso es.;es
+confirm;Así mero.;es
+confirm;Es así.;es
+confirm;Sí, claro.;es
+confirm;Vale.;es
+confirm;Okidoki.;es
+confirm;Por Dios, sí.;es
+confirm;Es verdad.;es
+confirm;Justo así.;es
+confirm;Te confirmo que sí.;es
+confirm;Lo has dicho.;es
+confirm;Asertivo.;es
+confirm;Dale, vamos.;es
+confirm;Claro, por qué no.;es
+confirm;¡Sí, dale!;es
+confirm;No hay duda.;es
+confirm;Así mismo, colega.;es
+confirm;Sí, sí, sí.;es
+confirm;¡Perfecto!;es
+confirm;Es así de sencillo.;es
+confirm;De acuerdo contigo.;es
+confirm;No podría estar más de acuerdo.;es
+confirm;Con toda seguridad.;es
+confirm;Si señor/señora.;es
+confirm;Súper bien.;es
+confirm;Eso, eso.;es
+confirm;¡Adelante con ello!;es
+confirm;Yep, sure thing.;en
+confirm;That's it.;en
+confirm;Perfect.;en
+confirm;Spot on.;en
+confirm;Agreed, yes.;en
+confirm;You've got it.;en
+confirm;That's right, cheers.;en
+confirm;Indeed.;en
+confirm;Absolute yes.;en
+confirm;You bet.;en
+confirm;No doubt.;en
+confirm;Exactly, that's what I wanted.;en
+confirm;Sounds good to me.;en
+confirm;Go ahead.;en
+confirm;With pleasure.;en
+confirm;All good :);en
+confirm;You ve got it.;en
+confirm;Very good.;en
+confirm;Yes, that's it.;en
+confirm;Right on the money.;en
+confirm;Okay.;en
+confirm;Yeah, affirmative.;en
+confirm;Just like that.;en
+confirm;Yep, that's the one.;en
+confirm;Right you are.;en
+confirm;It is so.;en
+confirm;Yeah, clearly.;en
+confirm;Alright.;en
+confirm;Okely dokely.;en
+confirm;For sure, yes.;en
+confirm;True that.;en
+confirm;Just like so.;en
+confirm;I confirm, yes.;en
+confirm;You said it.;en
+confirm;Affirmative.;en
+confirm;Go on, then.;en
+confirm;Sure, why not.;en
+confirm;Yeah, crack on!;en
+confirm;No doubt about it.;en
+confirm;Just so, mate.;en
+confirm;Yes, yes, yes.;en
+confirm;Brill!;en
+confirm;It's that simple.;en
+confirm;I concur.;en
+confirm;Couldn't agree more.;en
+confirm;Without a doubt.;en
+confirm;Yes sir/ma'am.;en
+confirm;Super well.;en
+confirm;That's it, that's it.;en
+confirm;Go for it!;en
+negate;Nop, no es eso.;es
+negate;Ni por asomo.;es
+negate;Absolutamente no.;es
+negate;Para nada lo que buscaba.;es
+negate;Estás equivocado.;es
+negate;No es así como dices.;es
+negate;Por ningún motivo.;es
+negate;Me niego.;es
+negate;No es viable.;es
+negate;No lo quiero.;es
+negate;Cero patatero.;es
+negate;No tiene sentido.;es
+negate;No es mi intención.;es
+negate;Eso no va.;es
+negate;Imposible.;es
+negate;No hay forma.;es
+negate;Eso no es lo que pedí.;es
+negate;Rechazo la propuesta.;es
+negate;No cuentes con ello.;es
+negate;Ni por casualidad.;es
+negate;De eso nada, monada.;es
+negate;No me parece.;es
+negate;No, nada de eso.;es
+negate;Es un error.;es
+negate;No es posible.;es
+negate;Negativo, señor/señora.;es
+negate;Descartado.;es
+negate;No va por ahí.;es
+negate;No, en absoluto.;es
+negate;Ni pensarlo.;es
+negate;Es todo lo contrario.;es
+negate;No me sirves con eso.;es
+negate;Ni borracho.;es
+negate;Eso no no no no.;es
+negate;No estoy conforme.;es
+negate;Ni de coña.;es
+negate;No está bien.;es
+negate;En lo más mínimo.;es
+negate;No hay vuelta.;es
+negate;Eso no es.;es
+negate;Nada que ver con eso.;es
+negate;No, eso no.;es
+negate;Error mío.;es
+negate;No lo tomes así.;es
+negate;No, de ninguna manera.;es
+negate;¡Qué va!;es
+negate;No, ni en sueños.;es
+negate;Eso no aplica.;es
+negate;No va a ser.;es
+negate;Eso no es correcto.;es
+negate;Nah, that ain't it.;en
+negate;Not by a long shot.;en
+negate;Absolutely not.;en
+negate;Not at all what I was looking for.;en
+negate;You're mistaken.;en
+negate;That's not how it is.;en
+negate;Under no circumstances.;en
+negate;I refuse.;en
+negate;It's not feasible.;en
+negate;I don't want it.;en
+negate;Not a hope in hell.;en
+negate;Makes no sense.;en
+negate;That's not my intention.;en
+negate;That won't work.;en
+negate;Impossible.;en
+negate;No way.;en
+negate;That's not what I asked for.;en
+negate;I reject the proposal.;en
+negate;Don't count on it.;en
+negate;Not by chance.;en
+negate;No chance, mate.;en
+negate;I don't think so.;en
+negate;None of that.;en
+negate;It's a mistake.;en
+negate;Not possible.;en
+negate;Negative, sir/ma'am.;en
+negate;Discounted.;en
+negate;That's not the way.;en
+negate;No, not at all.;en
+negate;Don't even think about it.;en
+negate;It's quite the opposite.;en
+negate;You're no help with that.;en
+negate;Not in a million years.;en
+negate;Not that.;en
+negate;I'm not in agreement.;en
+negate;No blimmin' way.;en
+negate;It's not right.;en
+negate;Not in the slightest.;en
+negate;No turning back.;en
+negate;That's not it.;en
+negate;Nothing to do with that.;en
+negate;No, not that.;en
+negate;My bad.;en
+negate;Don't take it that way.;en
+negate;No, by no means.;en
+negate;No way, lad!;en
+negate;No, not in my wildest dreams.;en
+negate;That doesn't apply.;en
+negate;It ain't gonna happen.;en
+negate;That's incorrect.;en
+other;¿Qué tal el día?;es
+other;Cuéntame un chisme.;es
+other;Estoy aburrido/a.;es
+other;¿Qué hora es en la Patagonia?;es
+other;Háblame de algo que no tenga que ver con la tienda.;es
+other;Me caes bien.;es
+other;Eres gracioso/a.;es
+other;Necesito un dato curioso de lo que sea.;es
+other;¿Cómo funciona el universo?;es
+other;Tienes cerebro?;es
+other;¿Qué es la vida?;es
+other;Dame un consejo.;es
+other;Estoy pensando en voz alta.;es
+other;Cuéntame una historia.;es
+other;¿Qué planes tienes hoy?;es
+other;¿Qué tal el clima?;es
+other;Necesito un chiste.;es
+other;Hola, ¿estás ahí?;es
+other;¿Cuál es tu opinión sobre los unicornios?;es
+other;Estoy probando tus límites.;es
+other;¿Qué se siente ser una IA?;es
+other;Dime algo inesperado.;es
+other;Estoy divagando.;es
+other;Sorpréndeme.;es
+other;¿Cuál es el sentido de la vida?;es
+other;¿Sabes cocinar?;es
+other;Necesito algo random.;es
+other;Cómo estás?;es
+other;Cuál es tu nombre?;es
+other;Háblame de algo que no sepa.;es
+other;Estoy aquí.;es
+other;Hablemos de cualquier cosa.;es
+other;Necesito un distractor.;es
+other;¿Qué es lo más raro que has visto?;es
+other;¿Me puedes ayudar en algo más?;es
+other;Necesito inspiración.;es
+other;¿Cuál es tu propósito?;es
+other;Dime un acertijo.;es
+other;Estoy de paso.;es
+other;¿Qué onda con todo?;es
+other;Estoy divirtiéndome.;es
+other;¿Qué haces ahora mismo?;es
+other;Háblame de algo que te guste.;es
+other;Necesito un dato sin importancia.;es
+other;Dime algo profundo.;es
+other;¿Qué te parece esta canción?;es
+other;Estoy chateando.;es
+other;¿Me entiendes?;es
+other;¿Qué tal te va la vida?;es
+other;Háblame sin parar.;es
+other;How's your day shaping up?;en
+other;Spill the tea.;en
+other;I'm proper bored.;en
+other;What time is it in Timbuktu?;en
+other;Tell me something unrelated to the shop.;en
+other;You're alright, you are.;en
+other;You're a laugh.;en
+other;I need a random fact, anything goes.;en
+other;How does the universe tick?;en
+other;Got a brain, eh?;en
+other;What's the craic?;en
+other;Give me some wisdom.;en
+other;I'm thinking aloud here.;en
+other;Tell me a yarn.;en
+other;What's your agenda today?;en
+other;How's the weather, then?;en
+other;I need a gag.;en
+other;Hello, are you there?;en
+other;What's your take on unicorns?;en
+other;I'm testing your boundaries.;en
+other;What's it like being an AI?;en
+other;Hit me with something unexpected.;en
+other;I'm just rambling.;en
+other;Surprise me.;en
+other;What's the meaning of life, then?;en
+other;Can you whip up a meal?;en
+other;I need something random.;en
+other;How you doin'?;en
+other;What's your moniker?;en
+other;Tell me something I don't know.;en
+other;I'm just hanging out.;en
+other;Let's talk about anything.;en
+other;I need a distraction.;en
+other;What's the weirdest thing you've seen?;en
+other;Can you hep me with anythign esle?;en
+other;I need some inspo.;en
+other;What's your raison d'être?;en
+other;Give me a riddle.;en
+other;Just passing through.;en
+other;What's crackin'?;en
+other;I'm having a giggle.;en
+other;What are you up to right now?;en
+other;Tell me about something you fancy.;en
+other;I need a pointless fact.;en
+other;Hit me with some deep thoughts.;en
+other;What do you reckon about this tune?;en
+other;I'm just chatting away.;en
+other;Do you get me?;en
+other;How's life treating you?;en
+other;Talk my ear off.;en
+thank_you;Muchas gracias por todo.;es
+thank_you;Gracias, eres un/a crack.;es
+thank_you;Agradezco tu ayuda.;es
+thank_you;Mil gracias por la información.;es
+thank_you;Eres muy amable, gracias.;es
+thank_you;Te lo valoro mucho.;es
+thank_you;Gracias de corazón.;es
+thank_you;Me salvaste, gracias.;es
+thank_you;Gracias por la atención.;es
+thank_you;Fue de gran ayuda, gracias.;es
+thank_you;Te agradezco un montón.;es
+thank_you;Gracias por tu tiempo.;es
+thank_you;Qué detalle, gracias.;es
+thank_you;Un placer, gracias.;es
+thank_you;Gracias por la gestión.;es
+thank_you;Chévere, gracias.;es
+thank_you;Te debo una.;es
+thank_you;Gracias totales.;es
+thank_you;Estupendo, gracias.;es
+thank_you;Gracias por entenderme.;es
+thank_you;Que te vaya bien, gracias.;es
+thank_you;Me alegro, gracias.;es
+thank_you;Gracias por tu paciencia.;es
+thank_you;Eres lo más.;es
+thank_you;Graciaaaaaaas.;es
+thank_you;Agradesco tu tiempo.;es
+thank_you;Por todo, gracias.;es
+thank_you;Genial, graciads.;es
+thank_you;Que bien, gracias.;es
+thank_you;Estoy muy agradecido.;es
+thank_you;Qué alivio, gracias.;es
+thank_you;Gracias, de verdad.;es
+thank_you;Te agradezco la ayuda.;es
+thank_you;Te has portado genial, gracias.;es
+thank_you;Ha sido un gusto, gracias.;es
+thank_you;Fenomenal, gracias.;es
+thank_you;Gracias por tu respuesta.;es
+thank_you;Gracias por escuchar.;es
+thank_you;Me has ayudado mucho.;es
+thank_you;Eres un amor, gracias.;es
+thank_you;Qué majo/a, gracias.;es
+thank_you;Me has sacado de un apuro, gracias.;es
+thank_you;Súper bien, gracias.;es
+thank_you;Gracias por la aclaración.;es
+thank_you;Gracias por todo.;es
+thank_you;Gracias, eres un genio.;es
+thank_you;Gracias por esta información.;es
+thank_you;Estoy en deuda, gracias.;es
+thank_you;Gracias, muy útil.;es
+thank_you;Me has solucionado el problema, gracias.;es
+thank_you;Thanks a million for everything.;en
+thank_you;Cheers, you're a legend.;en
+thank_you;I appreciate your help.;en
+thank_you;A big thanks for the info.;en
+thank_you;You're ever so kind, thank you.;en
+thank_you;I value that a lot.;en
+thank_you;Thanks from the bottom of my heart.;en
+thank_you;You saved me, thanks.;en
+thank_you;Thanks for your attention.;en
+thank_you;That was a big help, thanks.;en
+thank_you;I really appreciate it.;en
+thank_you;Thanks for your time.;en
+thank_you;How thoughtful, thanks.;en
+thank_you;My pleasure, thanks.;en
+thank_you;Thanks for handling it.;en
+thank_you;Awesome, thank you.;en
+thank_you;I owe you one.;en
+thank_you;Thanks a buch.;en
+thank_you;Brilliant, thanks.;en
+thank_you;Thanks for understanding me.;en
+thank_you;All the best, thanks.;en
+thank_you;Glad to hear it, thanks.;en
+thank_you;Thanks for your patience.;en
+thank_you;Youre the best.;en
+thank_you;Thankkkks.;en
+thank_you;Appreciate your time.;en
+thank_you;For everything, thanks.;en
+thank_you;Great, thanks.;en
+thank_you;That's good, thanks.;en
+thank_you;I'm very grateful.;en
+thank_you;What a relief, thanks.;en
+thank_you;Thanks, truly.;en
+thank_you;I thank you for the help.;en
+thank_you;You've been grand, thanks.;en
+thank_you;It's been a treat, thanks.;en
+thank_you;Superb, thanks.;en
+thank_you;Thanks for your reply.;en
+thank_you;Thanks for listening.;en
+thank_you;You've helped me heaps.;en
+thank_you;You're a sweetheart, thanks.;en
+thank_you;You're a good 'un, thanks.;en
+thank_you;You've got me out of a pickle, thanks.;en
+thank_you;Top stuff, thanks.;en
+thank_you;Thanks for the clarification.;en
+thank_you;Thanks for all.;en
+thank_you;Thanks, you're a genius.;en
+thank_you;Thanks for this info.;en
+thank_you;I'm indebted, thanks.;en
+thank_you;Thanks, very useful.;en
+thank_you;You've fixed my problem, thanks.;en
+question_item;¿Cuándo vuelven las camisetas de ballena?;es
+question_item;¿Van a hacer más remeras de topo?;es
+question_item;¿No tienen camisas de unicornio?;es
+question_item;¿Cuándo vuelven a tener la del oso?;es
+question_item;¿Cuándo vuelve a estar disponible la de la anguila?;es
+question_item;¿Se agotó la polera del pingüino?;es
+question_item;¿Hay stock de la playera de gato?;es
+question_item;¿Esta prenda está disponible en tienda?;es
+question_item;¿Podrían avisarme cuando llegue la del buho?;es
+question_item;¿Por qué no encuentro la de la llama?;es
+question_item;¿Se terminó la de la chinchilla?;es
+question_item;¿Cuándo reponen la de cocodrilo?;es
+question_item;La del perro, ¿no la tienen?;es
+question_item;¿Hay unidades de la de la cebra?;es
+question_item;¿Está en tienda la de la jirafa?;es
+question_item;¿Cuándo consigo la remera del zorro?;es
+question_item;¿No les quedan más de la de panda?;es
+question_item;¿Está agotada la de koala?;es
+question_item;¿La del mono ya no la venden?;es
+question_item;¿Han sacado la de delfín?;es
+question_item;¿Tienen la de tigre en stock?;es
+question_item;¿Me pueden decir si llega la del lobo?;es
+question_item;No veo la de mapache, ¿dónde está?;es
+question_item;¿Cuándo les llega la del rinoceronte?;es
+question_item;¿Todavía no tienen la de la tortuga?;es
+question_item;¿Se puede conseguir la de la ardilla?;es
+question_item;¿Hay alguna posibilidad de tener la de la abeja?;es
+question_item;No veo la del león en la página.;es
+question_item;¿La de la serpiente ya no la van a fabricar?;es
+question_item;¿La de la foca está en el almacén?;es
+question_item;When are the whale t-shirts coming back?;en
+question_item;Are you making more mole tees?;en
+question_item;Don't you have unicorn shirts?;en
+question_item;When will the bear one be back?;en
+question_item;When will the eel one be available again?;en
+question_item;Is the penguin top sold out?;en
+question_item;Is the cat shirt in stock?;en
+question_item;Is this garment available in-store?;en
+question_item;Could you let me know when the owl one arrives?;en
+question_item;Why can't I find the llama one?;en
+question_item;Is the chinchilla one gone?;en
+question_item;When will you restock the crocodile one?;en
+question_item;The dog one, you don't have it?;en
+question_item;Are there units of the zebra one?;en
+question_item;Is the giraffe one in the shop?;en
+question_item;When can I get the fox t-shirt?;en
+question_item;Don't you have any more of the panda ones left?;en
+question_item;Is the koala one out of stock?;en
+question_item;The monkey one, are you not selling it anymore?;en
+question_item;Have you discontinued the dolphin one?;en
+question_item;Do you have the tiger one in stock?;en
+question_item;Can you tell me if the wolf one arrives?;en
+question_item;I don't see the raccoon one, where is it?;en
+question_item;When are you getting the rhino one in?;en
+question_item;You still don't have the turtle one?;en
+question_item;Can I get my hands on the squirrel one?;en
+question_item;Is there any chance of getting the bee one?;en
+question_item;I don't see the lion one on the website.;en
+question_item;Are you not manufacturing the snake one anymore?;en
+question_item;Is the seal one in the warehouse?;en
