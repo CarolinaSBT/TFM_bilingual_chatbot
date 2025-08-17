@@ -83,7 +83,7 @@ except Exception as e:
 
 try:
     ner_extractor_es = spacy.load(ner_model_es_path)
-    print(f"Se cargó el modelo NER en español de {ner_model_es_path}: {e}")
+    print(f"Se cargó el modelo NER en español de {ner_model_es_path}: ")
 except Exception as e:
     print(f"Error al cargar modelo NER en español {ner_model_es_path}: {e}")
     ner_extractor_es = None
