@@ -13,6 +13,16 @@ def run_classification(text_input):
     return f"El texto recibido es: {text_input}"
 
 
+# Nueva ruta para la URL raíz
+# Esta ruta manejará las peticiones GET de los navegadores.
+@app.route('/', methods=['GET'])
+def welcome():
+    """
+    Maneja la petición a la URL raíz para dar la bienvenida al usuario.
+    """
+    return "¡Bienvenido a la API del chatbot! La API para clasificar texto está en la ruta /predict"
+
+
 @app.route('/predict', methods=['POST'])
 def handle_prediction():
     # Obtiene el cuerpo de la petición en formato JSON
