@@ -17,7 +17,7 @@ try:
 
     # Define la ruta a tu archivo .pkl en el directorio local de Render
     # Asume que el archivo contiene una tupla o un diccionario con ambos objetos
-    model_tokenizer_path = "models/intent_classification_model_v1/intent_classification_modelr.pkl"
+    model_tokenizer_path = "models/intent_classification_model_v1/intent_classification_model.pkl"
 
     # Usa 'rb' para leer en modo binario
     with open(model_tokenizer_path, 'rb') as file:
