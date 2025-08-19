@@ -1,5 +1,4 @@
 import os
-import pickle
 from flask import Flask, request, jsonify
 
 # Importa spaCy
@@ -11,23 +10,19 @@ app = Flask(__name__)
 # --- Carga del modelo ---
 # Se carga el modelo de spaCy de forma global, una sola vez al inicio.
 try:
-    print("Intentando cargar el modelo NER de spaCy desde un archivo .pkl...")
+    print("Intentando cargar el modelo NER de spaCy desde un directorio...")
 
-    # Define la ruta a tu archivo .pkl en el directorio local de Render
+    # Define la ruta a tu directorio de modelo
     # ¡Asegúrate de que esta ruta sea correcta para tu proyecto!
-    model_path = "models/ner_model_v1/output_eng/spanish_ner_model.pkl"
+    model_path = "models/ner_model_v1/output_es/model-best"
 
-    # Usa 'rb' para leer en modo binario
-    with open(model_path, 'rb') as file:
-        nlp = pickle.load(file)
+    # Carga el modelo desde el directorio
+    nlp = spacy.load(model_path)
 
     print("¡Modelo de spaCy cargado con éxito!")
 
-except FileNotFoundError as e:
-    print(f"Error: No se encontró el archivo del modelo. Por favor, revisa la ruta. {e}")
-    nlp = None
 except Exception as e:
-    print(f"Error al cargar el archivo .pkl: {e}")
+    print(f"Error al cargar el modelo de spaCy: {e}")
     nlp = None
 
 
