@@ -1,1 +1,2 @@
 output_eng/** filter=lfs diff=lfs merge=lfs -text
+output_es/** filter=lfs diff=lfs merge=lfs -text
