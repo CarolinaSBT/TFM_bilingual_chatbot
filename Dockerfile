@@ -10,11 +10,10 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Copia los archivos de requerimientos y los instala
-# Esto permite que Docker use el cache si los requerimientos no cambian
 COPY requirements.txt requirements.txt
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
-# Copia todos los archivos de tu proyecto al contenedor
+# Copia todos los archivos del proyecto al contenedor
 COPY . .
 
 # Establece una variable de entorno para el puerto
@@ -22,5 +21,5 @@ COPY . .
 ENV PORT=8080
 
 # Comando para ejecutar la aplicación cuando el contenedor se inicie
-# Usa Gunicorn para manejar las peticiones HTTP de forma eficiente
+# Gunicorn para manejar las peticiones HTTP
 CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 app:app

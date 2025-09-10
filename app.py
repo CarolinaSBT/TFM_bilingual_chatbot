@@ -12,7 +12,6 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 app = Flask(__name__)
 
 # --- Rutas de los modelos ---
-# Asegúrate de que estas rutas sean relativas al directorio raíz de tu proyecto
 NER_ES_MODEL_PATH = "./models/ner_model_v1/output_es/model-best"
 NER_EN_MODEL_PATH = "./models/ner_model_v1/output_eng/model-best"
 INTENT_CLASSIFICATION_PATH = "./models/intent_classification_model_v1"
@@ -21,8 +20,7 @@ INTENTS_DB_PATH = "./data/Intents_db_v2.csv"
 # --- Carga de modelos y preprocesamiento ---
 # Carga el tokenizer de clasificación de intents
 try:
-    # `local_files_only=True` es crucial para que el modelo se cargue desde el
-    # contenedor y no intente descargarlo de internet.
+    # `local_files_only=True` para que el modelo se cargue desde el contenedor
     loaded_tokenizer = AutoTokenizer.from_pretrained(INTENT_CLASSIFICATION_PATH, local_files_only=True)
     print("Tokenizer de clasificación de intents cargado.")
 except Exception as e:
@@ -38,7 +36,7 @@ try:
 except Exception as e:
     print(f"Error al cargar el modelo de clasificación de intents: {e}")
     loaded_model = None
-    device = torch.device('cpu') # Asegura que `device` esté definido
+    device = torch.device('cpu')
 
 # Carga el archivo de intents e inicializa el LabelEncoder
 df = None
@@ -95,7 +93,7 @@ def predict_with_confidence_threshold(text):
     # Preprocesamiento del texto
     processed_text = preprocess_text(text)
 
-    # Tokenización y movimiento a `device`
+    # Tokenización y cambio a `device`
     inputs = loaded_tokenizer(
         processed_text,
         return_tensors='pt',
@@ -144,7 +142,7 @@ def predict():
         # Obtiene los datos de la solicitud
         data = request.get_json()
         user_message = data.get("message")
-        lang = data.get("lang", "spanish") # Valor por defecto 'spanish'
+        lang = data.get("lang", "spanish")  # Valor por defecto: 'spanish'
 
         if not user_message:
             return jsonify({"error": "El campo 'message' es obligatorio en el cuerpo de la solicitud."}), 400
