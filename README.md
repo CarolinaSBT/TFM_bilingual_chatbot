@@ -14,3 +14,7 @@ Este repositorio contiene el código de una API construida con Flask que sirve c
 - dockerfile: permite realizar el despliegue en un contenedor Docker
 - models/: directorio donde se almacenan los modelos.
 - data/: contiene una muestra del dataset de intents original desde donde se extraen los labels
+
+---> Core Project >>>
+
+El código correspondiente al entrenamiento de los modelos utilizados, desarrollo del chatbot y análisis de datos se encuentra en este repositorio: [https://github.com/CarolinaSBT/TFM_bilingual_chatbot_core](https://github.com/CarolinaSBT/TFM_bilingual_chatbot_core)
